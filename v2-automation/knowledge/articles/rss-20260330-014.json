@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260330-014",
+  "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2502.09867",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668186+00:00",
+  "collected_at": "2026-03-30T08:43:07.668186+00:00",
+  "summary": "DesignWeaver 提出了一种用于文本到图像产品设计的维度支架方法，通过结构化控制提升生成图像的精确性和可控性。该技术为产品设计领域提供了更高效的 AI 辅助工具，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322768+00:00"
+}

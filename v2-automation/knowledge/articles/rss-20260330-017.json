@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260330-017",
+  "title": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25758",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668201+00:00",
+  "collected_at": "2026-03-30T08:43:07.668201+00:00",
+  "summary": "该研究提出了一种名为A-SelecT的方法，用于在扩散Transformer表示学习中自动选择时间步，以优化特征提取和下游任务性能。其核心价值在于通过自适应机制减少人工调参需求，提升扩散模型在表示学习中的效率和效果。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322777+00:00"
+}

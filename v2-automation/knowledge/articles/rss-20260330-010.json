@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-010",
+  "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26266",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668165+00:00",
+  "collected_at": "2026-03-30T08:43:07.668165+00:00",
+  "summary": "该研究提出了一种通过实时网络视频检索和即插即用标注来解决GUI智能体领域偏差的方法，核心价值在于提升智能体在多样化真实环境中的适应性和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322756+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260330-008",
+  "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668151+00:00",
+  "collected_at": "2026-03-30T08:43:07.668151+00:00",
+  "summary": "AutoB2G 是一个由大语言模型驱动的智能体框架，用于自动化建筑-电网协同仿真。该框架通过 LLM 智能体协调多个专业仿真工具，旨在提升能源系统建模的效率和准确性，为智能电网和建筑能源管理提供自动化解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322745+00:00"
+}

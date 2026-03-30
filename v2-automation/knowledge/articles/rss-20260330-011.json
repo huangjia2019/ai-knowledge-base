@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-011",
+  "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26499",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668170+00:00",
+  "collected_at": "2026-03-30T08:43:07.668170+00:00",
+  "summary": "该研究提出了AIRA_2，旨在解决AI研究代理在自主执行复杂研究任务时遇到的瓶颈问题，如工具使用效率和任务规划能力。通过改进代理架构和交互机制，提升了研究代理的可靠性和扩展性，为自动化科研流程提供了实用解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322759+00:00"
+}

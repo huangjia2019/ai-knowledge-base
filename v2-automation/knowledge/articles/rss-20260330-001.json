@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-001",
+  "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-03-30T08:43:05.793485+00:00",
+  "collected_at": "2026-03-30T08:43:05.793485+00:00",
+  "summary": "该内容报道了一起因AI面部识别技术错误匹配而导致的误捕事件，突显了AI技术在执法应用中的准确性与伦理风险。它警示了AI系统在现实部署中可能存在的缺陷及其对个人权利的潜在影响。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322726+00:00"
+}

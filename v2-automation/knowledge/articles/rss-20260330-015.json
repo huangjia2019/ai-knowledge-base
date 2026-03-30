@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-015",
+  "title": "A Lightweight, Transferable, and Self-Adaptive Framework for Intelligent DC Arc-Fault Detection in Photovoltaic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25749",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668191+00:00",
+  "collected_at": "2026-03-30T08:43:07.668191+00:00",
+  "summary": "该论文提出了一种轻量级、可迁移且自适应的智能框架，用于光伏系统中的直流电弧故障检测，旨在提高检测的准确性和适应性。其核心价值在于通过轻量化设计降低计算成本，并利用迁移学习和自适应机制增强模型在不同场景下的泛化能力。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322771+00:00"
+}

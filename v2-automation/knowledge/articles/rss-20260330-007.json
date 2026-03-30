@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-007",
+  "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25747",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668113+00:00",
+  "collected_at": "2026-03-30T08:43:07.668113+00:00",
+  "summary": "该研究提出了BeSafe-Bench基准，用于评估在功能环境中智能体的行为安全性风险。它通过模拟真实场景来揭示智能体在交互过程中可能产生的安全隐患，为AI安全评估提供了新的工具和方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322741+00:00"
+}

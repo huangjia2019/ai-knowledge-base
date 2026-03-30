@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-012",
+  "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668175+00:00",
+  "collected_at": "2026-03-30T08:43:07.668175+00:00",
+  "summary": "CADSmith 提出了一种多智能体系统，用于生成计算机辅助设计（CAD）模型，并通过程序化几何验证确保生成结果的准确性和可靠性。该方法结合了大型语言模型与几何约束验证，提升了自动化 CAD 设计的效率和精度。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322762+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260330-002",
+  "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/austin-weeks/miasma",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-03-30T08:43:05.793522+00:00",
+  "collected_at": "2026-03-30T08:43:05.793522+00:00",
+  "summary": "Miasma 是一个专门用于对抗 AI 网络爬虫的工具，其核心机制是通过制造一个无限循环的‘毒坑’来诱捕和干扰未经授权的数据采集行为。这项技术为网站所有者提供了一种主动的防御手段，以保护其内容不被用于未经同意的 AI 模型训练，在 AI 数据安全与伦理领域具有明确的应用价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322737+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-009",
+  "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26076",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668159+00:00",
+  "collected_at": "2026-03-30T08:43:07.668159+00:00",
+  "summary": "该研究提出了一种半自动化知识工程与流程映射方法，用于提升机场综合管理效率。通过结合人工智能技术，旨在优化机场运营流程并支持决策制定，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "knowledge-engineering",
+    "process-mapping",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322753+00:00"
+}

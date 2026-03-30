@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260330-018",
+  "title": "CANGuard: A Spatio-Temporal CNN-GRU-Attention Hybrid Architecture for Intrusion Detection in In-Vehicle CAN Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25763",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668206+00:00",
+  "collected_at": "2026-03-30T08:43:07.668206+00:00",
+  "summary": "该研究提出了一种名为CANGuard的混合架构，结合了CNN、GRU和注意力机制，用于检测车载CAN网络中的入侵行为。其核心价值在于通过时空特征提取和注意力加权，提升了入侵检测的准确性和实时性，增强了车辆网络的安全性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322781+00:00"
+}

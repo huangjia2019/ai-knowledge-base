@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-020",
+  "title": "ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25766",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668218+00:00",
+  "collected_at": "2026-03-30T08:43:07.668218+00:00",
+  "summary": "ETA-VLA 提出了一种高效的令牌适应方法，通过时间融合和大型语言模型内部稀疏化技术，优化视觉-语言-动作模型的性能。该方法旨在减少计算开销，同时保持模型在复杂多模态任务中的表现，为实际部署提供了更高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322788+00:00"
+}

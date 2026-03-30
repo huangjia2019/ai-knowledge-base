@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-019",
+  "title": "Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25764",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668211+00:00",
+  "collected_at": "2026-03-30T08:43:07.668211+00:00",
+  "summary": "该研究探讨了智能体行为方差如何影响其准确性，揭示了行为一致性对性能的放大效应。通过分析不同行为模式下的智能体表现，为优化智能体设计和评估提供了新视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322786+00:00"
+}

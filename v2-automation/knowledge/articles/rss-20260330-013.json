@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-013",
+  "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.26535",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668180+00:00",
+  "collected_at": "2026-03-30T08:43:07.668180+00:00",
+  "summary": "该论文提出了一种名为解耦优势归一化的方法，旨在稳定基于量规的集成训练过程，通过改进优势函数的计算来提升强化学习算法的收敛性和性能。其核心价值在于解决了训练中的不稳定性问题，为复杂任务中的策略优化提供了更可靠的训练框架。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322765+00:00"
+}

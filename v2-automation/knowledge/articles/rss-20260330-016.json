@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260330-016",
+  "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.25750",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-30T08:43:07.668196+00:00",
+  "collected_at": "2026-03-30T08:43:07.668196+00:00",
+  "summary": "该论文提出了一种名为Sommelier的可扩展开放多轮音频预处理方法，旨在支持全双工语音语言模型。其核心价值在于通过高效的音频流处理技术，解决了实时语音交互中的延迟和资源管理问题，为构建更自然的对话系统提供了技术基础。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-30T08:46:14.322774+00:00"
+}
