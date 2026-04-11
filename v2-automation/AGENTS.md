@@ -15,18 +15,18 @@
 - **定义文件**：`.opencode/agents/collector.md`
 - **关联 Skill**：`collect-articles`
 
-### @analyst — 内容分析师
+### @analyzer — 内容分析师
 
 - **职责**：对采集的内容进行摘要、打分、分类
-- **触发**：`@analyst 分析这篇文章的技术价值` 或 `@analyst 对比这两个框架`
-- **定义文件**：`.opencode/agents/analyst.md`
+- **触发**：`@analyzer 分析这篇文章的技术价值` 或 `@analyzer 对比这两个框架`
+- **定义文件**：`.opencode/agents/analyzer.md`
 - **关联 Skill**：`analyze-content`
 
-### @editor — 内容编辑
+### @organizer — 内容整理
 
 - **职责**：格式化、去重、质量把关，输出标准化 JSON
-- **触发**：`@editor 整理今天采集的内容` 或 `@editor 检查文章格式`
-- **定义文件**：`.opencode/agents/editor.md`
+- **触发**：`@organizer 整理今天采集的内容` 或 `@organizer 检查文章格式`
+- **定义文件**：`.opencode/agents/organizer.md`
 - **关联 Skill**：`format-output`
 
 ## V2 新增能力
@@ -52,7 +52,7 @@
 ## 工作流
 
 ```
-手动模式：@collector → @analyst → @editor → JSON 文件
+手动模式：@collector → @analyzer → @organizer → JSON 文件
 自动模式：Pipeline（python pipeline.py）→ Hook 校验 → 保存
 定时模式：GitHub Actions → Pipeline → 自动提交
 ```
@@ -67,8 +67,8 @@ v2-automation/
 ├── .opencode/
 │   ├── agents/
 │   │   ├── collector.md         ← 采集 Agent
-│   │   ├── analyst.md           ← 分析 Agent
-│   │   └── editor.md            ← 编辑 Agent
+│   │   ├── analyzer.md          ← 分析 Agent
+│   │   └── organizer.md         ← 整理 Agent
 │   ├── skills/
 │   │   ├── collect-articles/SKILL.md
 │   │   ├── analyze-content/SKILL.md
