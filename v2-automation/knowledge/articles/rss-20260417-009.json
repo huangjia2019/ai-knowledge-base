@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-009",
+  "title": "Seeing Through Experts Eyes A Foundational Vision Language Model Trained on Radiologists Gaze and Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14316",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147323+00:00",
+  "collected_at": "2026-04-17T08:45:00.147323+00:00",
+  "summary": "该研究提出了一种基于放射科医生注视点和推理过程训练的基础视觉语言模型，旨在模拟专家在医学图像分析中的视觉注意力和决策逻辑。其核心价值在于通过整合人类专家的认知数据来提升模型在医学影像理解任务中的准确性和可解释性，为AI辅助诊断提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733843+00:00"
+}

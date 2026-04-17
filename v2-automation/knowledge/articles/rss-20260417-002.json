@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-002",
+  "title": "The local LLM ecosystem doesn’t need Ollama",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-17T08:44:59.098205+00:00",
+  "collected_at": "2026-04-17T08:44:59.098205+00:00",
+  "summary": "文章讨论了本地大型语言模型（LLM）生态系统，指出Ollama并非必需，可能探讨了替代方案或现有工具链的独立性。核心价值在于引发对本地LLM部署工具选择的思考，强调生态系统的灵活性和多样性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733816+00:00"
+}

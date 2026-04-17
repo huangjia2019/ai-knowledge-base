@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-018",
+  "title": "Response-Aware User Memory Selection for LLM Personalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14473",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147367+00:00",
+  "collected_at": "2026-04-17T08:45:00.147367+00:00",
+  "summary": "该研究提出了一种响应感知的用户记忆选择方法，用于提升大型语言模型（LLM）的个性化能力。其核心在于根据当前对话的上下文和潜在回复，动态地从用户历史记忆中筛选最相关的信息，从而生成更贴合用户偏好的响应。这项技术通过优化记忆检索机制，为个性化AI助手提供了更高效、精准的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733872+00:00"
+}

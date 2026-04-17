@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-006",
+  "title": "Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14240",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147308+00:00",
+  "collected_at": "2026-04-17T08:45:00.147308+00:00",
+  "summary": "该论文综述了可解释和可解释的代理建模技术，重点探讨其在仿真模拟中的应用，并讨论了可解释AI如何支持决策制定。它为理解复杂仿真模型提供了透明化的方法，有助于提升AI系统的可信度和决策过程的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733835+00:00"
+}

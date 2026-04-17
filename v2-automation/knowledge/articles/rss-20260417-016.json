@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-016",
+  "title": "AIBuildAI: An AI Agent for Automatically Building AI Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14455",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147358+00:00",
+  "collected_at": "2026-04-17T08:45:00.147358+00:00",
+  "summary": "该研究提出了一个名为AIBuildAI的AI智能体，能够自动构建AI模型，旨在降低AI开发门槛并提升效率。通过自动化模型构建流程，该技术展示了AI在自我改进和自动化领域的应用潜力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733866+00:00"
+}

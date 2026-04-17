@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-011",
+  "title": "Credo: Declarative Control of LLM Pipelines via Beliefs and Policies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14401",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147332+00:00",
+  "collected_at": "2026-04-17T08:45:00.147332+00:00",
+  "summary": "Credo 提出了一种通过声明式信念（beliefs）和政策（policies）来控制 LLM 流程的框架，旨在提升复杂 AI 系统的可预测性和可控性。其核心价值在于为多步骤 LLM 应用提供了一种更结构化、可验证的编程范式，有助于减少错误并增强可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733850+00:00"
+}

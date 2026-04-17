@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-001",
+  "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.cloudflare.com/ai-platform/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-17T08:44:59.098174+00:00",
+  "collected_at": "2026-04-17T08:44:59.098174+00:00",
+  "summary": "Cloudflare 推出了专为 AI 代理设计的推理平台，旨在为代理提供稳定、可扩展的模型调用层，并支持工具使用和多代理协作。该平台降低了代理系统的部署复杂度，提升了在真实场景中的可靠性和性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733807+00:00"
+}

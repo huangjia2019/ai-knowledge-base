@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-010",
+  "title": "Mistake gating leads to energy and memory efficient continual learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14336",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147328+00:00",
+  "collected_at": "2026-04-17T08:45:00.147328+00:00",
+  "summary": "该研究提出了一种名为‘错误门控’的机制，旨在通过选择性激活网络部分来减少计算和内存开销，从而提升持续学习的能源和内存效率。其核心价值在于为资源受限环境下的持续学习提供了更可行的解决方案。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733847+00:00"
+}

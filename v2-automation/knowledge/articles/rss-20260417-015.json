@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-015",
+  "title": "On Tackling Complex Tasks with Reward Machines and Signal Temporal Logics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14440",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147354+00:00",
+  "collected_at": "2026-04-17T08:45:00.147354+00:00",
+  "summary": "该研究探讨了如何结合奖励机器（Reward Machines）和信号时序逻辑（Signal Temporal Logics）来处理复杂的强化学习任务。核心价值在于通过形式化方法更精确地指定和优化智能体在复杂环境中的长期目标，提升了任务完成的可靠性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733862+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-003",
+  "title": "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14160",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147263+00:00",
+  "collected_at": "2026-04-17T08:45:00.147263+00:00",
+  "summary": "该研究提出了一个名为NuHF Claw的风险约束认知智能体框架，旨在为数字化核控制室提供以人为中心的程序支持。该框架通过整合风险约束机制，确保智能体在复杂安全关键环境中的决策安全性，其核心价值在于将AI智能体技术应用于高风险工业领域，提升操作安全性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733821+00:00"
+}

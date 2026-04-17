@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-020",
+  "title": "Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14477",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147376+00:00",
+  "collected_at": "2026-04-17T08:45:00.147376+00:00",
+  "summary": "该论文提出了一种针对视觉Transformer的忠实机制可解释性方法，旨在更准确地理解模型内部电路的工作机制。其核心价值在于通过改进的可视化技术，提升对复杂视觉模型决策过程的理解和信任度。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733877+00:00"
+}

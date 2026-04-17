@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-014",
+  "title": "Geometric Routing Enables Causal Expert Control in Mixture of Experts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14434",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147348+00:00",
+  "collected_at": "2026-04-17T08:45:00.147348+00:00",
+  "summary": "该论文提出了一种几何路由方法，用于在专家混合模型中实现因果专家控制，旨在提升模型的可控性和解释性。通过改进路由机制，使模型能够更精确地分配任务给特定专家，从而增强整体性能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733858+00:00"
+}

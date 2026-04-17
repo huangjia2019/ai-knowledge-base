@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-019",
+  "title": "Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147371+00:00",
+  "collected_at": "2026-04-17T08:45:00.147371+00:00",
+  "summary": "Evo-MedAgent 提出了一种能够记忆、反思和改进的智能体框架，超越了传统的一次性诊断方法。该研究通过让智能体在多次交互中积累经验和优化决策，提升了医疗诊断的准确性和适应性。其核心价值在于为复杂任务中的持续学习和性能提升提供了新的智能体设计思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733875+00:00"
+}

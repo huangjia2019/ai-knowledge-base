@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-012",
+  "title": "Equifinality in Mixture of Experts: Routing Topology Does Not Determine Language Modeling Quality",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14419",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147339+00:00",
+  "collected_at": "2026-04-17T08:45:00.147339+00:00",
+  "summary": "该研究探讨了专家混合模型中的等终性现象，表明路由拓扑结构并不决定语言建模质量，挑战了传统认知。通过实验验证了不同路由配置下模型性能的相似性，为MoE架构设计提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733853+00:00"
+}

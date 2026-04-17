@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-017",
+  "title": "Improving Human Performance with Value-Aware Interventions: A Case Study in Chess",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14465",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147363+00:00",
+  "collected_at": "2026-04-17T08:45:00.147363+00:00",
+  "summary": "该研究探讨了在象棋场景中，通过基于价值的干预措施来提升人类表现，展示了AI技术如何通过针对性反馈优化人类决策过程。其核心价值在于为AI辅助人类学习和决策提供了实证案例，特别是在策略性游戏领域。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733869+00:00"
+}

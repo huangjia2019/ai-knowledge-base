@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-005",
+  "title": "Fun-TSG: A Function-Driven Multivariate Time Series Generator with Variable-Level Anomaly Labeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14221",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147302+00:00",
+  "collected_at": "2026-04-17T08:45:00.147302+00:00",
+  "summary": "Fun-TSG 是一个函数驱动的多元时间序列生成器，能够生成具有变量级异常标注的合成数据。该技术通过模拟真实世界的时间序列模式，为异常检测模型的训练和评估提供了高质量的基准数据集。其核心价值在于解决了实际应用中异常标注数据稀缺的问题，提升了时间序列异常检测的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733827+00:00"
+}

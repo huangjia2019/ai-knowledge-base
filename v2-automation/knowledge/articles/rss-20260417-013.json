@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-013",
+  "title": "Demonstration of Pneuma-Seeker: Agentic System for Reifying and Fulfilling Information Needs on Tabular Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14422",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147343+00:00",
+  "collected_at": "2026-04-17T08:45:00.147343+00:00",
+  "summary": "Pneuma-Seeker 是一个面向表格数据的智能体系统，旨在将用户的信息需求具体化并满足这些需求。该系统通过智能体技术实现表格数据的自动化查询与信息提取，提升了数据交互的效率和智能化水平。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733856+00:00"
+}

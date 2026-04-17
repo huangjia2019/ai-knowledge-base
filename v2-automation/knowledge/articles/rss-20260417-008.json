@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-008",
+  "title": "GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14258",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147319+00:00",
+  "collected_at": "2026-04-17T08:45:00.147319+00:00",
+  "summary": "该论文提出了一种名为GFT的强化学习微调方法，通过无偏群体优势和动态系数校正，从模仿学习平滑过渡到奖励微调阶段。该方法旨在解决传统方法中的偏差和稳定性问题，提升智能体在复杂任务中的学习效率和性能。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733841+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260417-004",
+  "title": "Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14178",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147290+00:00",
+  "collected_at": "2026-04-17T08:45:00.147290+00:00",
+  "summary": "该研究提出了一种基于心跳驱动的自主思考活动调度方法，模拟人类认知过程来优化LLM系统的自主决策能力。通过引入类似生物节律的调度机制，增强了AI系统在复杂任务中的持续推理和规划效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733824+00:00"
+}

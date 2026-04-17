@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260417-007",
+  "title": "Formalizing Kantian Ethics: Formula of the Universal Law Logic (FULL)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.14254",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-17T08:45:00.147314+00:00",
+  "collected_at": "2026-04-17T08:45:00.147314+00:00",
+  "summary": "该研究提出了一种基于逻辑的形式化方法，将康德的普遍法则公式（FUL）转化为可计算的框架，用于评估AI系统的道德决策。其核心价值在于为AI伦理推理提供了结构化的逻辑基础，有助于开发符合道德规范的智能体。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-17T08:48:51.733838+00:00"
+}
