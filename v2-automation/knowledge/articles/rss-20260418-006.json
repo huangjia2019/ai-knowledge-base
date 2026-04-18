@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260418-006",
+  "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Hcompany/holotab",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-18T08:22:42.426005+00:00",
+  "collected_at": "2026-04-18T08:22:42.426005+00:00",
+  "summary": "HoloTab 是一款由 HCompany 开发的 AI 浏览器伴侣，旨在通过集成智能代理技术来增强用户的网页浏览体验。它可能利用 RAG 或工具调用等功能，为用户提供实时信息辅助和任务自动化，提升日常网络使用的效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-18T08:25:36.522665+00:00"
+}

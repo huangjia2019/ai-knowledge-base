@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260418-001",
+  "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-18T08:22:42.425950+00:00",
+  "collected_at": "2026-04-18T08:22:42.425950+00:00",
+  "summary": "该文章介绍了如何利用合成数据构建快速的多语言OCR模型，重点在于通过合成数据解决多语言OCR训练数据稀缺的问题，并优化模型速度。其价值在于提供了一种高效、可扩展的多语言OCR解决方案，降低了数据收集和标注成本。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-18T08:25:36.522638+00:00"
+}

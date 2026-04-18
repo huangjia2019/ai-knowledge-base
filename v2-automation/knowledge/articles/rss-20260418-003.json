@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260418-003",
+  "title": "The PR you would have opened yourself",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/transformers-to-mlx",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-18T08:22:42.425990+00:00",
+  "collected_at": "2026-04-18T08:22:42.425990+00:00",
+  "summary": "该文章介绍了如何通过自动化工具或智能体系统来生成和提交代码PR，减少手动操作，提升开发效率。核心价值在于展示了AI在代码协作和自动化工作流中的应用潜力，帮助开发者更专注于核心逻辑而非繁琐流程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-18T08:25:36.522652+00:00"
+}

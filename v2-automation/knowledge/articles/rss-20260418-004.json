@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260418-004",
+  "title": "Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-18T08:22:42.425995+00:00",
+  "collected_at": "2026-04-18T08:22:42.425995+00:00",
+  "summary": "该文章介绍了如何使用Sentence Transformers库训练和微调多模态嵌入与重排序模型，以提升跨文本和图像等不同模态数据的检索性能。核心价值在于提供了实用的技术指南，帮助开发者构建更高效的多模态检索系统。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "rag",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-18T08:25:36.522655+00:00"
+}
