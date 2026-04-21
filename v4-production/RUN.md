@@ -44,8 +44,12 @@ print(f'LangGraph nodes: {list(g.nodes.keys())}')
 
 ```
 All v4 imports OK
-LangGraph nodes: ['plan', 'collect', 'analyze', 'organize', 'review', 'save']
+LangGraph nodes: ['plan', 'collect', 'analyze', 'review', 'revise', 'organize', 'human_flag']
 ```
+
+> 7 节点拓扑：`plan → collect → analyze → review` 之后分三路——
+> 通过 → `organize` (END)，未通过且未超次 → `revise → review`（循环），超次 → `human_flag` (END)。
+> 没有独立的 `save` 节点，入库由 `organize` 完成。
 
 ---
 
@@ -56,7 +60,7 @@ cd ~/ai-knowledge-base/v4-production
 python3 -m pipeline.pipeline --no-publish
 ```
 
-流水线 = V3 LangGraph 工作流（`plan → collect → analyze → organize → review → save`）
+流水线 = V3 LangGraph 工作流（`plan → collect → analyze → review` ⇒ `organize` / `revise↺review` / `human_flag`）
 - 调用 DeepSeek API
 - 成本约 ¥0.005 (lite) / ¥0.01 (standard) / ¥0.02 (full)
 - 结果写到 `knowledge/articles/*.json`
@@ -109,7 +113,9 @@ python -m pipeline.pipeline
     │
     ▼ Stage A: V3 LangGraph 工作流
     workflows.graph.app.invoke()
-        plan → collect → analyze → organize → review → save
+        plan → collect → analyze → review ┬ organize (END)
+                                          ├ revise → review (循环)
+                                          └ human_flag (END)
     │
     ▼ Stage B: V4 分发层（新增）
     distribution.publisher.publish_daily_digest()

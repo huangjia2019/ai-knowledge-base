@@ -118,47 +118,41 @@ PLANNER_TARGET_COUNT=30 python3 -m workflows.graph
 
 ```
 ============================================================
-AI 知识库 — LangGraph 工作流启动
+AI 知识库 V3 — LangGraph 工作流启动
 ============================================================
-[Planner] 策略=standard, 每源=10 条, 阈值=0.5, 目标 10 条，平衡模式
+[Planner] 策略=lite, 每源=5 条, 阈值=0.7, 目标 5 条，启用精简模式（成本优先）
 
 --- [plan] 完成 ---
-  策略: standard
-[Collector] 采集到 10 条原始数据
+  策略: lite
+[Collector] 采集到 5 条原始数据
 
 --- [collect] 完成 ---
-  采集数量: 10
-[Analyzer] 完成 10 条分析
+  采集数量: 5
+[Analyzer] 完成 5 条分析
 
 --- [analyze] 完成 ---
-  分析数量: 10
-  累计成本: ¥0.0053
-[Organizer] 整理出 10 条知识条目 (迭代 0)
-
---- [organize] 完成 ---
-  文章数量: 10
-[Reviewer] 审核得分: 4.1, 通过: True (迭代 1/2)
+  分析数量: 5
+  累计成本: ¥0.002611
+[Reviewer] 加权总分: 7.2/10, 通过: True (第 1 次审核)
 
 --- [review] 完成 ---
   审核结果: 通过
-  迭代次数: 1/2
-  累计成本: ¥0.0089
-[Saver] 保存 10 篇文章
-[Saver] 本次运行总成本: ¥0.0089
+  迭代次数: 1/1
+  累计成本: ¥0.005557
+[Organizer] 整理出 5 条知识条目（准备入库）
+[Organizer] 已写入 5 篇到磁盘
+[Organizer] 本次运行总成本: ¥0.005557
 
---- [save] 完成 ---
-  策略: standard
-  采集数量: 10
-  分析数量: 10
-  文章数量: 10
-  审核结果: 通过
-  迭代次数: 1/2
-  累计成本: ¥0.0089
+--- [organize] 完成 ---
+  入库数量: 5
+  累计成本: ¥0.005557
 
 ============================================================
 工作流执行完毕
 ============================================================
 ```
+
+> 拓扑：`plan → collect → analyze → review` 之后分三路——审核通过 → `organize` (END)，未通过且未超次 → `revise → review`（循环），超次 → `human_flag` (END)。organize 是正常终点，没有独立 save 节点。
 
 ### 3.4 成本对比（实测）
 
@@ -247,17 +241,13 @@ LLM 在 JSON 后加了尾巴文本。`chat_json` 现在有三层容错（markdow
     (每条数据一次 LLM 分析)
                │
                ▼
-    workflows/nodes.py::organize_node
-    ├─ 首次：_organize_fresh() → 过滤去重
-    └─ 回流：_organize_with_feedback() → 读 feedback 改
-               │
-               ▼
-    workflows/nodes.py::review_node
+    workflows/reviewer.py::review_node
     (LLM 四维评分，读 plan.max_iterations 兜底)
                │
-        ┌──────┴──────┐
-        ▼             ▼
-    save (通过)   organize (回流)
+        ┌──────┴──────┬─────────────┐
+        ▼             ▼             ▼
+    organize      revise        human_flag
+    (通过, END)   (未通过,回 review) (超次, END)
         │
         ▼
     knowledge/articles/*.json

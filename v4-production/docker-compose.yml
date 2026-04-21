@@ -1,10 +1,15 @@
 # ============================================================
 # AI 知识库 V4 — Docker Compose 编排
 # ============================================================
-# 三个服务：
+# 两个容器服务：
 #   pipeline  — 定时采集分析流水线（cron 触发）
 #   bot       — 交互式知识库机器人（常驻运行）
-#   openclaw  — OpenClaw 消息网关（统一入口）
+#
+# OpenClaw 网关不在 Compose 中——它是 Node CLI，直接装在宿主机：
+#   npm install -g openclaw@latest
+#   openclaw daemon start
+# 详见 RUN.md §5。Compose 里的 pipeline/bot 通过挂载同一个
+# knowledge/ 卷与 host 上的 openclaw 共享数据。
 # ============================================================
 
 version: "3.9"
@@ -70,38 +75,9 @@ services:
         max-size: "10m"
         max-file: "3"
 
-  # ----------------------------------------------------------
-  # OpenClaw 网关 — 统一消息路由
-  # ----------------------------------------------------------
-  openclaw:
-    image: openclaw/gateway:latest
-    container_name: kb-openclaw
-    restart: unless-stopped
-    ports:
-      - "${OPENCLAW_PORT:-3000}:3000"
-    volumes:
-      - ./openclaw:/app/config
-      - knowledge-data:/app/knowledge:ro
-    env_file:
-      - .env
-    environment:
-      - OPENCLAW_CONFIG=/app/config/openclaw.json5
-      - TZ=Asia/Singapore
-    depends_on:
-      - bot
-    networks:
-      - kb-network
-    healthcheck:
-      test: ["CMD", "wget", "-q", "--spider", "http://localhost:3000/health"]
-      interval: 30s
-      timeout: 5s
-      retries: 3
-      start_period: 10s
-    logging:
-      driver: json-file
-      options:
-        max-size: "10m"
-        max-file: "3"
+  # OpenClaw 网关不在这里——它是 Node CLI，跑在宿主机上
+  # 启停命令：openclaw daemon start / status / stop
+  # 配置文件：./openclaw/openclaw.json5（openclaw onboard 时会指向它）
 
 # ============================================================
 # 持久化卷
