@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260423-001",
+  "title": "Scoring Show HN submissions for AI design patterns",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.adriankrebs.ch/blog/design-slop/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-23T08:47:25.578087+00:00",
+  "collected_at": "2026-04-23T08:47:25.578087+00:00",
+  "summary": "该内容探讨了如何对Hacker News上的Show HN提交进行评分，以识别AI设计模式。核心价值在于提供一种系统化的方法来分析AI项目趋势和设计思路，帮助开发者理解社区中的创新模式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-23T08:49:52.273315+00:00"
+}

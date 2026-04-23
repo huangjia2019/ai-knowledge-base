@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260423-003",
+  "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-23T08:47:25.578132+00:00",
+  "collected_at": "2026-04-23T08:47:25.578132+00:00",
+  "summary": "Meta 计划捕捉员工的鼠标移动和键盘敲击数据，用于训练 AI 模型。这一做法引发了关于隐私和监控的讨论，但展示了企业如何利用内部行为数据改进 AI 系统。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-23T08:49:52.273331+00:00"
+}
