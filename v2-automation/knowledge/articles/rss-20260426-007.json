@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260426-007",
+  "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/gemma4",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-26T08:35:19.297370+00:00",
+  "collected_at": "2026-04-26T08:35:19.297370+00:00",
+  "summary": "该内容展示了在Jetson Orin Nano Super上运行Gemma 4 VLA（视觉-语言-动作）模型的演示，体现了边缘设备上部署多模态AI模型的能力。核心价值在于验证了VLA模型在资源受限硬件上的实时推理可行性，为机器人、自动驾驶等场景提供了低成本解决方案。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-26T08:36:34.238995+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260426-009",
+  "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/cybersecurity-openness",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-26T08:35:19.297379+00:00",
+  "collected_at": "2026-04-26T08:35:19.297379+00:00",
+  "summary": "本文探讨了人工智能在网络安全领域的应用，强调了开放性和透明度在构建安全系统中的重要性。核心价值在于指出开放模型和数据集能够促进协作，从而更有效地应对网络威胁。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-26T08:36:34.239000+00:00"
+}

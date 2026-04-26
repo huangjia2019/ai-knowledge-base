@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260426-008",
+  "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-04-26T08:35:19.297375+00:00",
+  "collected_at": "2026-04-26T08:35:19.297375+00:00",
+  "summary": "QIMMA قِمّة ⛰ 是一个专注于阿拉伯语大语言模型（LLM）的排行榜，采用质量优先的评估方法。该排行榜旨在为阿拉伯语LLM提供标准化、可靠的性能比较，推动该语言AI技术的发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-26T08:36:34.238997+00:00"
+}

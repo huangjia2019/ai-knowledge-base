@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260426-003",
+  "title": "Hear your agent suffer through your code",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/AndrewVos/endless-toil",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-26T08:35:12.674991+00:00",
+  "collected_at": "2026-04-26T08:35:12.674991+00:00",
+  "summary": "该内容标题暗示了一种让AI代理体验开发者代码缺陷的幽默或反思性视角，可能探讨AI代理在代码执行中的错误或挑战。核心价值在于引发对AI代理可靠性和代码质量的思考，但缺乏具体技术细节。",
+  "score": 5,
+  "tags": [
+    "agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-26T08:36:34.238982+00:00"
+}

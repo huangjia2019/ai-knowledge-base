@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260426-002",
+  "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/nex-crm/wuphf",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-26T08:35:12.674979+00:00",
+  "collected_at": "2026-04-26T08:35:12.674979+00:00",
+  "summary": "该项目介绍了一个由AI代理维护的LLM知识库，采用Karpathy风格的Markdown和Git管理方式。核心价值在于利用代理自动更新和整理LLM相关文档，提升知识管理的效率与协作性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-26T08:36:34.238978+00:00"
+}
