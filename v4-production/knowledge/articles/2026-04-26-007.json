@@ -1,0 +1,18 @@
+{
+  "id": "2026-04-26-007",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "url": "https://github.com/mem0ai/mem0",
+  "collected_at": "2026-04-26T00:42:59.930334+00:00",
+  "summary": "Mem0 是一个为 AI 代理提供通用记忆层的开源项目，旨在让 AI 能够记住用户偏好、历史交互和上下文信息，从而提升个性化体验。它通过向量数据库和智能检索机制，支持长期和短期记忆管理，可无缝集成到各类 AI 应用中。",
+  "tags": [
+    "memory",
+    "ai-agent",
+    "personalization",
+    "vector-database",
+    "context-management"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "Mem0 通过统一的记忆层解决了 AI 代理缺乏持久化上下文的问题，是实现真正个性化交互的关键基础设施。"
+}

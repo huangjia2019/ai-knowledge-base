@@ -1,0 +1,20 @@
+{
+  "id": "2026-04-26-008",
+  "title": "jeecgboot/JeecgBoot",
+  "source": "github",
+  "url": "https://github.com/jeecgboot/JeecgBoot",
+  "collected_at": "2026-04-26T00:42:59.930336+00:00",
+  "summary": "JeecgBoot 是一款基于 AI 驱动的低代码开发平台，支持零代码和代码生成双模式。零代码模式下，用户可通过一句话快速搭建系统；代码生成模式则自动输出前后端代码及建表 SQL，生成即可运行。平台内置 AI 聊天助手、大模型、知识库、AI 流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单及聊天式业务操作，旨在解决 Java 项目 80% 的重复工作，兼顾高效与灵活性。",
+  "tags": [
+    "低代码",
+    "AI驱动",
+    "代码生成",
+    "零代码",
+    "Java",
+    "AI聊天助手",
+    "流程编排"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过 AI 与低代码结合，JeecgBoot 将自然语言交互融入开发流程，大幅降低 Java 项目重复劳动，实现高效开发与灵活定制的平衡。"
+}
