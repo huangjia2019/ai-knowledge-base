@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-001",
+  "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/dirac-run/dirac",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-28T09:01:10.750882+00:00",
+  "collected_at": "2026-04-28T09:01:10.750882+00:00",
+  "summary": "该帖子介绍了一个开源代理（OSS Agent），在Gemini-3-flash-preview模型的TerminalBench基准测试中取得了最高分。这展示了该代理在终端任务上的优秀性能，为AI代理在命令行环境中的应用提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T09:02:31.846994+00:00"
+}
