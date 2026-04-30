@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-015",
+  "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138137+00:00",
+  "collected_at": "2026-04-30T08:56:45.138137+00:00",
+  "summary": "该论文提出了一个用于评估大型语言模型在机器人健康助手控制中安全性的基准测试框架，旨在系统性地检测LLM在医疗场景下的潜在风险行为。研究通过设计对抗性测试用例和安全性指标，为部署LLM驱动的医疗机器人提供了重要的安全评估工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306092+00:00"
+}

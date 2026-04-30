@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-007",
+  "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26120",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138100+00:00",
+  "collected_at": "2026-04-30T08:56:45.138100+00:00",
+  "summary": "该论文提出了一种从用户行为日志中分层归纳多角色人格的方法，通过学习基于证据且真实的人格表征，以提升AI系统的个性化交互能力。其核心价值在于利用行为数据自动构建多层次、可验证的人格模型，从而增强对话系统的真实性和用户适配性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306071+00:00"
+}

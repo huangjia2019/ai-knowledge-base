@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260430-010",
+  "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26237",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138115+00:00",
+  "collected_at": "2026-04-30T08:56:45.138115+00:00",
+  "summary": "该论文应用Apriori算法分析数学辅导中的习得性无助行为模式，探讨不同水平、干预措施和结果下的行为规律。研究为教育技术中的行为分析提供了数据驱动的方法，有助于优化个性化辅导策略。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306079+00:00"
+}

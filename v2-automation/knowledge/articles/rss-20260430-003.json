@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260430-003",
+  "title": "VibeVoice: Open-source frontier voice AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/microsoft/VibeVoice",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-30T08:56:43.488938+00:00",
+  "collected_at": "2026-04-30T08:56:43.488938+00:00",
+  "summary": "VibeVoice 是一个开源的语音 AI 项目，旨在提供前沿的语音处理能力。该项目可能涉及语音识别、合成或对话系统，为开发者提供可定制的语音 AI 解决方案。",
+  "score": 7,
+  "tags": [
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306060+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-017",
+  "title": "When to Vote, When to Rewrite: Disagreement-Guided Strategy Routing for Test-Time Scaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26644",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138147+00:00",
+  "collected_at": "2026-04-30T08:56:45.138147+00:00",
+  "summary": "该论文提出了一种基于分歧引导的策略路由方法，用于在测试时扩展（Test-Time Scaling）中动态选择投票（Voting）或重写（Rewriting）策略。通过利用模型内部的不确定性或分歧程度，该方法能够更高效地分配计算资源，提升推理性能。其核心价值在于为测试时计算预算的分配提供了自适应机制，适用于需要权衡准确性与效率的AI推理场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306100+00:00"
+}

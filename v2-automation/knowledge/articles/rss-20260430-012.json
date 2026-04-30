@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260430-012",
+  "title": "Auto-Relational Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26507",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138124+00:00",
+  "collected_at": "2026-04-30T08:56:45.138124+00:00",
+  "summary": "Auto-Relational Reasoning 是一种自动化的关系推理方法，旨在提升 AI 模型在复杂关系理解任务中的表现。该技术通过自动学习实体间的隐含关系，增强了模型的推理能力，具有广泛的应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306084+00:00"
+}

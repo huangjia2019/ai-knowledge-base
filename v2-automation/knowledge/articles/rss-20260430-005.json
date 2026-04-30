@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-005",
+  "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26095",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138084+00:00",
+  "collected_at": "2026-04-30T08:56:45.138084+00:00",
+  "summary": "该论文提出了一种名为Distill-Belief的闭环方法，用于物理场中的逆源定位与表征。其核心价值在于通过闭环反馈机制提高源定位的准确性和鲁棒性，适用于传感器网络等实际应用场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306065+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-008",
+  "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26211",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138106+00:00",
+  "collected_at": "2026-04-30T08:56:45.138106+00:00",
+  "summary": "该论文提出了一种名为OMEGA的方法，通过评估生成的算法来优化机器学习过程。其核心价值在于自动化算法发现与选择，有望提升模型性能与效率。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306074+00:00"
+}

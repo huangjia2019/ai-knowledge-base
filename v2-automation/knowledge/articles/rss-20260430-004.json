@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-004",
+  "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26091",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138044+00:00",
+  "collected_at": "2026-04-30T08:56:45.138044+00:00",
+  "summary": "该论文提出了一种针对链上语言模型代理的操作层控制框架，旨在确保在真实资本环境下代理行为的安全性与合规性。通过引入可审计的操作约束与实时监控机制，该框架有效降低了金融风险，为去中心化金融中的AI应用提供了实用解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306063+00:00"
+}

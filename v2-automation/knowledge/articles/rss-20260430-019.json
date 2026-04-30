@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-019",
+  "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26733",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138156+00:00",
+  "collected_at": "2026-04-30T08:56:45.138156+00:00",
+  "summary": "该论文提出了FutureWorld，一个用于训练预测智能体的实时环境，通过真实世界的结果奖励来优化智能体的预测能力。核心价值在于提供了一个动态、交互式的训练框架，使智能体能够从实际反馈中学习，提升其在复杂环境中的决策和预测性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306106+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-014",
+  "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26522",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138132+00:00",
+  "collected_at": "2026-04-30T08:56:45.138132+00:00",
+  "summary": "AGEL-Comp 提出了一种神经符号框架，旨在提升交互式智能体在组合泛化任务中的表现。该框架结合了神经网络的灵活性和符号系统的结构化推理能力，为智能体在复杂环境中的泛化学习提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306090+00:00"
+}

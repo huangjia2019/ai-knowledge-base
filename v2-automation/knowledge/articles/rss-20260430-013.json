@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260430-013",
+  "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26521",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138128+00:00",
+  "collected_at": "2026-04-30T08:56:45.138128+00:00",
+  "summary": "该论文探讨了神经符号系统中基础性（Grounding）与组合性（Compositionality）之间的非互补关系，指出在推理任务中两者存在根本性冲突。通过理论分析和实验验证，作者揭示了当前神经符号方法在同时实现符号化推理与感知基础时的局限性，为设计更有效的混合推理系统提供了重要指导。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306087+00:00"
+}

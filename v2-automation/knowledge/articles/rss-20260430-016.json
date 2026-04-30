@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-016",
+  "title": "Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138142+00:00",
+  "collected_at": "2026-04-30T08:56:45.138142+00:00",
+  "summary": "该论文提出了一种人机协同（Human-in-the-Loop）的基准测试方法，用于评估异构大型语言模型（LLMs）在中学数学自动能力评估中的表现。核心价值在于通过结合人类反馈，系统性地比较不同LLM在数学教育场景下的推理与评估能力，为教育领域的AI应用提供可靠的评估框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306098+00:00"
+}

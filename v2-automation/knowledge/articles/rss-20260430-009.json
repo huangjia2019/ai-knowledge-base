@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260430-009",
+  "title": "Persuadability and LLMs as Legal Decision Tools",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-30T08:56:45.138111+00:00",
+  "collected_at": "2026-04-30T08:56:45.138111+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）在法律决策中的可说服性，分析了LLMs如何受到不同论证策略的影响，并评估了其在法律场景下的可靠性与潜在风险。核心价值在于揭示了LLMs作为法律工具的局限性，为设计更稳健的法律AI系统提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-30T08:58:03.306076+00:00"
+}
