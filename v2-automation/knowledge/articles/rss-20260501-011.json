@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-011",
+  "title": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27150",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046439+00:00",
+  "collected_at": "2026-05-01T08:50:07.046439+00:00",
+  "summary": "该论文提出了一种针对自主交易智能体集群的止损和止盈参数优化方法，旨在提升交易策略的鲁棒性和收益。通过参数化设置，智能体集群能够动态调整风险控制阈值，从而在复杂市场环境中实现更优的绩效。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838489+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-018",
+  "title": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046473+00:00",
+  "collected_at": "2026-05-01T08:50:07.046473+00:00",
+  "summary": "该论文提出了一种名为Reinforced Agent的方法，通过在工具调用代理的推理阶段引入反馈机制来提升其性能。核心价值在于利用强化学习思想，在不改变模型参数的情况下优化代理的决策过程，从而提高工具使用的准确性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838510+00:00"
+}

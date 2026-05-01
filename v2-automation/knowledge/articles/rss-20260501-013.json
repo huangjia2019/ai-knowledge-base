@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260501-013",
+  "title": "Interval Orders, Biorders and Credibility-limited Belief Revision",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046447+00:00",
+  "collected_at": "2026-05-01T08:50:07.046447+00:00",
+  "summary": "本文探讨了区间序、双序与可信度受限信念修正之间的关系，提出了一种基于区间序和双序的信念修正框架，用于处理可信度受限的信念变化。该研究为人工智能中的知识表示与推理提供了新的理论基础，有助于提升信念修正系统的灵活性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838495+00:00"
+}

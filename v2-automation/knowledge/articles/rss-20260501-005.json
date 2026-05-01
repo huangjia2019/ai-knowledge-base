@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-005",
+  "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27082",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046409+00:00",
+  "collected_at": "2026-05-01T08:50:07.046409+00:00",
+  "summary": "本文提出一个框架，用于在生产系统中当大型语言模型（LLM）达到生命周期终点时，实现自信的模型迁移。核心价值在于为开发者提供系统化的迁移策略，确保模型更新过程中的稳定性和可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838472+00:00"
+}

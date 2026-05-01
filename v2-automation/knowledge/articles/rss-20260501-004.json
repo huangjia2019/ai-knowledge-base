@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-004",
+  "title": "Binary Spiking Neural Networks as Causal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27007",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046396+00:00",
+  "collected_at": "2026-05-01T08:50:07.046396+00:00",
+  "summary": "该论文提出将二元脉冲神经网络（Binary Spiking Neural Networks）作为因果模型，探索其在因果推理中的应用。核心价值在于结合脉冲神经网络的高能效特性与因果建模能力，为神经形态计算提供新方向。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838469+00:00"
+}

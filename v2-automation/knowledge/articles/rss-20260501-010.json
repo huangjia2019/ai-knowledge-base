@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-010",
+  "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27134",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046435+00:00",
+  "collected_at": "2026-05-01T08:50:07.046435+00:00",
+  "summary": "该研究探讨了学生在编程过程中与AI交互时的求助行为，分析了学生如何通过“氛围编码”与AI协作解决问题。研究揭示了学生与AI互动中的求助策略和模式，为设计更有效的AI辅助编程教育工具提供了见解。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838486+00:00"
+}

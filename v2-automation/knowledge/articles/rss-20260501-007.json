@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-007",
+  "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27096",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046421+00:00",
+  "collected_at": "2026-05-01T08:50:07.046421+00:00",
+  "summary": "该论文提出了一种基于自愈多智能体系统的自动化机器学习流水线生成方法，能够自主构建、执行和修复ML流水线。其核心价值在于通过智能体协作与自我修复机制，显著降低ML流水线开发的人工干预成本，提升自动化水平。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838478+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-012",
+  "title": "Step-level Optimization for Efficient Computer-use Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27151",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T08:50:07.046443+00:00",
+  "collected_at": "2026-05-01T08:50:07.046443+00:00",
+  "summary": "该论文提出了一种针对计算机使用代理的步骤级优化方法，旨在提升代理在复杂任务中的执行效率。通过优化每一步的决策过程，该方法能够显著减少不必要的操作并提高任务完成速度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T08:51:19.838492+00:00"
+}
