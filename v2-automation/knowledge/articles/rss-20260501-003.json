@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-003",
+  "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.26999",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T06:56:47.372883+00:00",
+  "collected_at": "2026-05-01T06:56:47.372883+00:00",
+  "summary": "该论文提出了一种组合元学习方法，用于缓解物理信息神经网络（PINNs）中任务异质性带来的挑战。通过将不同物理任务分解为可组合的元学习组件，该方法提升了PINNs在多任务场景下的泛化能力和训练效率。核心价值在于为处理复杂物理系统的多任务学习提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717792+00:00"
+}

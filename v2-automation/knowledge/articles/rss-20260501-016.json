@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-016",
+  "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27221",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T06:56:47.372989+00:00",
+  "collected_at": "2026-05-01T06:56:47.372989+00:00",
+  "summary": "该论文提出了一种名为Web2BigTable的双层多智能体LLM系统，用于互联网规模的信息搜索和提取。其核心价值在于通过分层架构高效处理海量网络数据，将非结构化信息转化为结构化的大表格，显著提升了信息检索与提取的自动化水平。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717834+00:00"
+}

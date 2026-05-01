@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-002",
+  "title": "The Zig project's rationale for their anti-AI contribution policy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-01T06:56:45.587092+00:00",
+  "collected_at": "2026-05-01T06:56:45.587092+00:00",
+  "summary": "该内容讨论了Zig项目关于禁止AI贡献的政策理由，反映了开源社区对AI生成代码的伦理和质量担忧。核心价值在于引发对AI在软件开发中角色和贡献标准的思考。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717787+00:00"
+}

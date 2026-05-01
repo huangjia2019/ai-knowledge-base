@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-006",
+  "title": "End-to-end autonomous scientific discovery on a real optical platform",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27092",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T06:56:47.372939+00:00",
+  "collected_at": "2026-05-01T06:56:47.372939+00:00",
+  "summary": "该论文提出了一种端到端的自主科学发现系统，能够在真实光学平台上自动完成实验设计、执行和结果分析。其核心价值在于展示了AI在物理实验中实现全流程自动化，有望加速科学发现过程。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717802+00:00"
+}

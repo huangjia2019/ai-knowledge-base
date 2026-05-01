@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260501-020",
+  "title": "OptimusKG: Unifying biomedical knowledge in a modern multimodal graph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27269",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T06:56:47.373006+00:00",
+  "collected_at": "2026-05-01T06:56:47.373006+00:00",
+  "summary": "该论文提出了OptimusKG，一个统一的现代多模态生物医学知识图谱，整合了多种生物医学数据源。其核心价值在于通过知识图谱技术促进生物医学领域的知识发现和推理，为精准医疗和药物研发提供支持。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717845+00:00"
+}

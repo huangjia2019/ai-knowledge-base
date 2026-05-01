@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260501-019",
+  "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27253",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-01T06:56:47.373002+00:00",
+  "collected_at": "2026-05-01T06:56:47.373002+00:00",
+  "summary": "AutoSurfer 提出了一种通过全面浏览、学习和建模来训练网络代理的方法，旨在提升代理在复杂网页任务中的自主性和效率。该技术通过模拟人类浏览行为并建模环境，使代理能更好地理解和执行指令，具有重要的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-01T06:58:09.717843+00:00"
+}
