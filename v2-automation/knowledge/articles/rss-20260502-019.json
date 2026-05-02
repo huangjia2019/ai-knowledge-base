@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260502-019",
+  "title": "The Inverse-Wisdom Law: Architectural Tribalism and the Consensus Paradox in Agentic Swarms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27274",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-02T08:40:17.357119+00:00",
+  "collected_at": "2026-05-02T08:40:17.357119+00:00",
+  "summary": "该论文提出了“逆智慧定律”概念，探讨了在多智能体系统中，架构部落主义（即不同架构设计之间的偏好）如何导致共识悖论——即群体智能反而可能降低决策质量。核心价值在于揭示了多智能体协作中的潜在陷阱，为设计更鲁棒的群体智能系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-02T08:41:31.337129+00:00"
+}

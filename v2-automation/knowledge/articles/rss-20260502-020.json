@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260502-020",
+  "title": "Mechanized Foundations of Structural Governance: Machine-Checked Proofs for Governed Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.27289",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-02T08:40:17.357123+00:00",
+  "collected_at": "2026-05-02T08:40:17.357123+00:00",
+  "summary": "该论文提出了一种基于机器验证的结构化治理机制，用于确保智能系统的行为符合预定义的规则和约束。通过形式化证明，该方法能够为受治理的智能体提供可靠的行为保证，从而增强系统的可信度和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-02T08:41:31.337139+00:00"
+}
