@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-004",
+  "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00136",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716136+00:00",
+  "collected_at": "2026-05-04T09:00:57.716136+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）智能体在使用外部工具时产生的性能代价（Tool-Use Tax），即工具调用对模型推理和响应效率的负面影响。通过系统性分析，论文揭示了工具使用在提升能力的同时，也会引入延迟、错误和资源消耗等问题，为优化智能体设计提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080050+00:00"
+}

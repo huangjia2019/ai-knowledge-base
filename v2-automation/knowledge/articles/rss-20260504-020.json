@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260504-020",
+  "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716220+00:00",
+  "collected_at": "2026-05-04T09:00:57.716220+00:00",
+  "summary": "该论文重新审视了分布式实时推理中的权衡，探讨了云端与边缘端推理的延迟、带宽和计算成本。核心价值在于为AI系统部署提供了更细致的性能评估框架，帮助开发者优化推理架构。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080107+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260504-007",
+  "title": "Causal Foundations of Collective Agency",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00248",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716158+00:00",
+  "collected_at": "2026-05-04T09:00:57.716158+00:00",
+  "summary": "该论文探讨了集体能动性的因果基础，提出了一种基于因果推理的框架来理解多个智能体如何形成统一的集体行动。核心价值在于为多智能体系统的协调与合作提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080065+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-017",
+  "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00737",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716206+00:00",
+  "collected_at": "2026-05-04T09:00:57.716206+00:00",
+  "summary": "该论文提出一个框架，用于评估和优化大型语言模型（LLM）的工具调用决策，旨在解决何时调用外部工具的问题。核心价值在于通过系统化的方法提升LLM在复杂任务中的工具使用效率和准确性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080099+00:00"
+}

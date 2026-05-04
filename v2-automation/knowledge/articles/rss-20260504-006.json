@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-006",
+  "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00245",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716153+00:00",
+  "collected_at": "2026-05-04T09:00:57.716153+00:00",
+  "summary": "该论文提出了ARMOR 2025基准测试，专门用于评估大语言模型在军事场景下的安全性，超越了传统的民用安全测试。它填补了LLM在军事对齐方面的空白，为国防相关AI应用提供了关键的安全评估工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080061+00:00"
+}

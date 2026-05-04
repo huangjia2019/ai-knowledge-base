@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260504-015",
+  "title": "Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00572",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716197+00:00",
+  "collected_at": "2026-05-04T09:00:57.716197+00:00",
+  "summary": "该论文提出了一种用于电动容量车辆路径问题的双层延迟接受爬山算法，通过实例感知参数配置实现自适应优化。核心价值在于结合双层优化与延迟接受策略，有效提升了电动车辆路径规划的计算效率与解质量。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "optimization"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080090+00:00"
+}

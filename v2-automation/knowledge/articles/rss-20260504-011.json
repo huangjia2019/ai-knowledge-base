@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260504-011",
+  "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00412",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716177+00:00",
+  "collected_at": "2026-05-04T09:00:57.716177+00:00",
+  "summary": "该论文提出了一种基于哈密顿力学的物理原生世界模型，将生成式世界建模与物理定律相结合，通过哈密顿方程描述系统动力学，从而提升模型对物理世界的理解和预测能力。其核心价值在于为AI系统提供更符合物理规律的内部表征，有望在机器人、自动驾驶等需要物理推理的领域实现更稳健的决策。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080077+00:00"
+}

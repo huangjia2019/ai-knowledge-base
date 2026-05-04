@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-019",
+  "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.28031",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716215+00:00",
+  "collected_at": "2026-05-04T09:00:57.716215+00:00",
+  "summary": "该论文研究了多轮对话中大型语言模型（LLM）在创意生成任务中如何遵守约束条件，发现模型在长对话中会逐渐偏离初始约束，并提出了一种基于记忆回放的改进方法。核心价值在于揭示了LLM在复杂交互场景下的约束保持问题，并为提升其可靠性提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080105+00:00"
+}

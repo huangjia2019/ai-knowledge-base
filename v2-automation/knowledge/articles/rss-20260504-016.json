@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-016",
+  "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716201+00:00",
+  "collected_at": "2026-05-04T09:00:57.716201+00:00",
+  "summary": "该论文提出了一种基于在线策略自蒸馏的方法，用于GUI定位任务，通过让模型从自身交互中学习点击位置，无需人工标注。该方法提升了模型在GUI环境中的泛化能力和准确性，为自动化GUI交互提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080096+00:00"
+}

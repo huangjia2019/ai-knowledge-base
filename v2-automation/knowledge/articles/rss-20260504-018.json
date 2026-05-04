@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-018",
+  "title": "Position: agentic AI orchestration should be Bayes-consistent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00742",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716210+00:00",
+  "collected_at": "2026-05-04T09:00:57.716210+00:00",
+  "summary": "该论文提出了一种新的观点，认为AI代理编排应遵循贝叶斯一致性原则，以确保决策过程的统计合理性和可靠性。通过将贝叶斯统计框架应用于代理系统的协调与决策，该方法有望提升AI系统在不确定性环境下的表现和鲁棒性。这一理论贡献为多代理系统的设计提供了更严谨的数学基础。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080102+00:00"
+}

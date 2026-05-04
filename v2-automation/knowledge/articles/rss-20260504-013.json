@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260504-013",
+  "title": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00438",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716185+00:00",
+  "collected_at": "2026-05-04T09:00:57.716185+00:00",
+  "summary": "该论文提出了一种交错视觉-语言推理轨迹方法，用于长时域机器人操作任务。通过结合文本和图像推理，模型能够在复杂环境中进行多步规划与执行，显著提升了机器人操作的鲁棒性和泛化能力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080083+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260504-014",
+  "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00440",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-04T09:00:57.716190+00:00",
+  "collected_at": "2026-05-04T09:00:57.716190+00:00",
+  "summary": "该论文探讨了人工智能在实现人机共生中的关键作用，分析了AI如何增强人类认知与决策能力。核心价值在于提出了一个框架，用于设计能够与人类协同工作的AI系统，从而提升整体效率与创造力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-04T09:02:20.080087+00:00"
+}
