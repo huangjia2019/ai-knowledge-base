@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-04-001",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "collected_at": "2026-05-04T00:46:29.099768+00:00",
+  "summary": "LangChain 是一个用于构建基于大型语言模型（LLM）的应用程序的开发平台，支持 TypeScript 和 Python。它提供了模块化的组件，用于管理提示、链、代理和记忆，简化了与 LLM 的交互、数据连接和工具集成。该平台强调可扩展性和灵活性，允许开发者快速构建复杂的代理工作流，如 RAG、多步骤推理和自动化任务。LangChain 已成为 LLM 应用开发的主流框架，广泛应用于聊天机器人、文档分析和自动化工具。",
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "typescript",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "LangChain 通过模块化抽象和链式设计，将 LLM 与外部工具、数据源无缝集成，成为构建智能代理和复杂工作流的首选框架。"
+}
