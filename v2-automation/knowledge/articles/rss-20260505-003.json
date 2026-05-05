@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260505-003",
+  "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/aattaran/deepclaude",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-05T08:56:36.417198+00:00",
+  "collected_at": "2026-05-05T08:56:36.417198+00:00",
+  "summary": "DeepClaude 是一个结合了 Claude Code agent 循环和 DeepSeek V4 Pro 的项目，旨在通过集成两种先进模型来提升代码生成和推理任务的效率。该技术分享展示了如何利用 agent 循环机制优化多模型协作，具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-05T08:58:02.885739+00:00"
+}

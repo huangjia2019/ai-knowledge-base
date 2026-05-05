@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260505-002",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-05T08:56:36.417188+00:00",
+  "collected_at": "2026-05-05T08:56:36.417188+00:00",
+  "summary": "OpenAI 分享了如何在大规模场景下实现低延迟语音 AI 的技术方案。核心内容包括优化语音处理流程和系统架构，以支持实时交互。该内容展示了在语音 AI 领域的高效工程实践。",
+  "score": 8,
+  "tags": [
+    "audio",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-05T08:58:02.885734+00:00"
+}

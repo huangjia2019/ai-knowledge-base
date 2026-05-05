@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260505-001",
+  "title": "Agent Skills",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://addyosmani.com/blog/agent-skills/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-05T08:56:36.417147+00:00",
+  "collected_at": "2026-05-05T08:56:36.417147+00:00",
+  "summary": "该内容讨论了Agent Skills，即智能体技能，涉及如何构建和优化AI代理的能力。核心价值在于提供了一种系统化的方法来增强AI代理的自主性和任务执行效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-05T08:58:02.885716+00:00"
+}
