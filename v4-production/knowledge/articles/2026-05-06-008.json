@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-06-008",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "url": "https://github.com/mem0ai/mem0",
+  "collected_at": "2026-05-06T00:42:53.304126+00:00",
+  "summary": "mem0ai/mem0 是一个为 AI 代理设计的通用记忆层，旨在增强代理的长期记忆能力。它通过存储和检索历史交互数据，使 AI 代理能够记住用户偏好、上下文和过往决策，从而提升个性化交互和任务执行效率。该项目支持多种后端存储，易于集成到现有 AI 系统中。",
+  "tags": [
+    "AI Agent",
+    "Memory Layer",
+    "Long-term Memory",
+    "Personalization",
+    "Context Retention"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过通用记忆层解决 AI 代理的长期记忆缺失问题，实现更连贯和个性化的交互。"
+}

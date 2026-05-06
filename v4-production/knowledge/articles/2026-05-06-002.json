@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-06-002",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-05-06T00:42:53.304104+00:00",
+  "summary": "NousResearch/hermes-agent 是一个开源项目，旨在构建一个能够随着用户成长而进化的智能代理。该项目基于大型语言模型（LLM），强调代理的个性化和持续学习能力，可能通过用户交互数据动态调整行为。它可能集成了记忆管理、任务规划和工具使用等功能，以提供更自然、自适应的助手体验。",
+  "tags": [
+    "agent",
+    "llm",
+    "personalization",
+    "open-source",
+    "adaptive"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过持续学习和用户交互，代理能够动态进化，实现高度个性化的智能助手体验。"
+}
