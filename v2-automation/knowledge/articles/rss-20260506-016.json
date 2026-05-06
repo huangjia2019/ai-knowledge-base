@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-016",
+  "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01101",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T09:00:11.865210+00:00",
+  "collected_at": "2026-05-06T09:00:11.865210+00:00",
+  "summary": "该论文提出了一种临床医生参与的AI语音治疗代理系统，通过人机协作实现个性化且受监督的语音治疗。核心价值在于将AI代理与临床专家知识结合，提升治疗的可及性和效果，同时确保治疗过程的安全性和有效性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401882+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-018",
+  "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01120",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T09:00:11.865218+00:00",
+  "collected_at": "2026-05-06T09:00:11.865218+00:00",
+  "summary": "该研究利用强化学习增强的大语言模型进化搜索方法，为Zarankiewicz数问题找到了新的上界，展示了LLM在组合数学优化中的潜力。核心价值在于将AI搜索策略与数学难题结合，推动了极值图论领域的进展。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401887+00:00"
+}

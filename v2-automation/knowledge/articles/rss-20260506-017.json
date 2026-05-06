@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-017",
+  "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01102",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T09:00:11.865214+00:00",
+  "collected_at": "2026-05-06T09:00:11.865214+00:00",
+  "summary": "该论文提出了一种多智能体自主推理框架，用于解决流体动力学中的复杂问题。通过多个智能体协作，系统能够自动进行物理推理和数值模拟，提高了问题求解的效率和准确性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401885+00:00"
+}

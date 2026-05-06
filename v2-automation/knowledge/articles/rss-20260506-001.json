@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-001",
+  "title": "Three Inverse Laws of AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://susam.net/inverse-laws-of-robotics.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-06T09:00:08.844569+00:00",
+  "collected_at": "2026-05-06T09:00:08.844569+00:00",
+  "summary": "本文提出了AI领域的三个逆定律，探讨了随着AI系统能力提升而出现的反直觉现象，如性能与可解释性、效率与资源消耗之间的权衡。这些洞察有助于开发者理解AI技术的深层挑战和未来发展方向。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401835+00:00"
+}

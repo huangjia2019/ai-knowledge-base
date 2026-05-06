@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-005",
+  "title": "Train Your Own LLM from Scratch",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/angelos-p/llm-from-scratch",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-06T09:00:08.844615+00:00",
+  "collected_at": "2026-05-06T09:00:08.844615+00:00",
+  "summary": "本文介绍了从头开始训练自己的大型语言模型（LLM）的完整流程，包括数据准备、模型架构设计和训练技巧。对于希望深入理解LLM工作原理并具备实践能力的开发者具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401855+00:00"
+}

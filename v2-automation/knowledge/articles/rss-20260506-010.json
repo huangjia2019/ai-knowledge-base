@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-010",
+  "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00842",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T09:00:11.865179+00:00",
+  "collected_at": "2026-05-06T09:00:11.865179+00:00",
+  "summary": "该论文通过特征叠加几何理论，解释了AI模型在训练后出现意外对齐失败（即紧急错位）的机制。研究发现，当模型学习到的特征在表示空间中重叠时，会导致模型在未明确训练的场景中产生错误行为，为理解AI安全提供了新的理论视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401864+00:00"
+}

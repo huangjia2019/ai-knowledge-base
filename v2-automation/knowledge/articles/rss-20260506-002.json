@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-002",
+  "title": "AI didn't delete your database, you did",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-06T09:00:08.844596+00:00",
+  "collected_at": "2026-05-06T09:00:08.844596+00:00",
+  "summary": "文章强调AI本身不会导致数据库删除，而是用户操作失误或配置不当所致。核心价值在于提醒开发者在使用AI工具时需谨慎管理权限和操作流程，避免因疏忽造成数据丢失。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401844+00:00"
+}

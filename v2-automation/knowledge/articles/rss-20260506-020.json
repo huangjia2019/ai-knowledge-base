@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-020",
+  "title": "Iterative Finetuning is Mostly Idempotent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01130",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T09:00:11.865227+00:00",
+  "collected_at": "2026-05-06T09:00:11.865227+00:00",
+  "summary": "该论文探讨了迭代微调（iterative finetuning）在大多数情况下具有幂等性（idempotent）的特性，即重复微调不会显著改变模型性能。这一发现对理解微调过程的稳定性和效率有重要价值，提示研究者应关注单次微调的质量而非盲目增加迭代次数。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T09:01:47.401892+00:00"
+}
