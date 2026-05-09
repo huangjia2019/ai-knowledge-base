@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-09-003",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "collected_at": "2026-05-09T00:46:51.230345+00:00",
+  "summary": "该项目收集了100多个基于LLM的AI Agent和RAG应用实例，所有应用均可直接克隆、定制和部署。涵盖从简单聊天机器人到复杂多代理系统的各种场景，旨在降低AI应用开发门槛，促进快速原型验证和生产落地。",
+  "tags": [
+    "LLM",
+    "AI Agent",
+    "RAG",
+    "应用集合",
+    "开源项目"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "提供可运行的应用模板，大幅缩短从概念到部署的周期，是LLM应用开发的实用资源库。"
+}
