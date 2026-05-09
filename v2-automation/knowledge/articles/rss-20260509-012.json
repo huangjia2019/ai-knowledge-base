@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-012",
+  "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05409",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472813+00:00",
+  "collected_at": "2026-05-09T08:41:47.472813+00:00",
+  "summary": "该论文提出了一种基于智能体（Agentic）的检索增强生成（RAG）方法，专门用于金融文档的问答任务。通过将RAG与智能体决策相结合，该方法能够更有效地从金融文档中检索和整合信息，从而提升问答的准确性和可靠性。其核心价值在于解决了金融领域文档问答中信息检索不精确和生成内容不相关的问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846622+00:00"
+}

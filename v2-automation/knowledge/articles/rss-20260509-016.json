@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-016",
+  "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05440",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472833+00:00",
+  "collected_at": "2026-05-09T08:41:47.472833+00:00",
+  "summary": "本文探讨了在多智能体AI系统中如何实现授权传播，强调将身份治理作为基础设施的重要性。核心价值在于提出了一种系统化的方法，确保在复杂的多智能体协作环境中，权限和身份信息能够安全、一致地传递，从而防止安全漏洞和权限滥用。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846634+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-014",
+  "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05413",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472822+00:00",
+  "collected_at": "2026-05-09T08:41:47.472822+00:00",
+  "summary": "该论文提出了一种名为“Constant-Context Skill Learning”的方法，旨在让LLM智能体在保持上下文长度恒定的情况下，从历史交互中持续学习新技能。其核心价值在于解决了LLM智能体在长期任务中因上下文长度限制而无法有效积累经验的问题，提升了智能体的持续学习能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846628+00:00"
+}

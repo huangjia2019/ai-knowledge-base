@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-006",
+  "title": "ZAYA1-8B Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05365",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472781+00:00",
+  "collected_at": "2026-05-09T08:41:47.472781+00:00",
+  "summary": "ZAYA1-8B是一个8B参数的语言模型技术报告，详细介绍了模型架构、训练方法和性能评估。该报告展示了在有限资源下训练高效语言模型的实用方法，对中小规模模型开发具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846604+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260509-009",
+  "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05402",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472800+00:00",
+  "collected_at": "2026-05-09T08:41:47.472800+00:00",
+  "summary": "该研究利用AI技术分析城市交叉口的软基础设施，通过智能CCTV系统实现城市设计的智能化评估。核心价值在于提供了一种基于视觉AI的城市规划辅助方法，有助于提升城市交通的安全性和效率。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846613+00:00"
+}

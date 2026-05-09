@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-015",
+  "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05427",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472826+00:00",
+  "collected_at": "2026-05-09T08:41:47.472826+00:00",
+  "summary": "该论文从地缘政治角度分析AI安全，通过因果分析方法研究不同地区大语言模型（LLM）的偏见差异。其核心价值在于揭示区域政治环境如何影响模型输出，为全球AI治理提供定量依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846631+00:00"
+}

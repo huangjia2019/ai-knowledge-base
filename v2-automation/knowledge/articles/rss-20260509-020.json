@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-020",
+  "title": "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05482",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472852+00:00",
+  "collected_at": "2026-05-09T08:41:47.472852+00:00",
+  "summary": "该论文介绍了FinRAG-12B，一个针对银行业务的检索增强生成（RAG）模型，通过生产环境验证的方法实现基于事实的问答。核心价值在于提供了金融领域RAG系统的实用构建和优化方案，解决了专业术语和复杂查询的准确性挑战。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846644+00:00"
+}

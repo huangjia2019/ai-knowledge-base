@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-011",
+  "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05407",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472809+00:00",
+  "collected_at": "2026-05-09T08:41:47.472809+00:00",
+  "summary": "该论文提出PRISM框架，通过将感知与推理交错进行，以提升AI在序列决策任务中的表现。其核心价值在于为复杂环境下的自主决策提供了一种新的结构化方法。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846619+00:00"
+}

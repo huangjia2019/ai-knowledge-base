@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-008",
+  "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05386",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T08:41:47.472795+00:00",
+  "collected_at": "2026-05-09T08:41:47.472795+00:00",
+  "summary": "BALAR 提出了一种基于贝叶斯方法的主动推理循环框架，通过迭代更新信念状态来增强 AI 系统的推理能力。该框架结合了贝叶斯推理与智能体循环，能够在不确定性下进行更有效的决策和推理，适用于需要动态调整策略的复杂任务。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T08:43:23.846610+00:00"
+}
