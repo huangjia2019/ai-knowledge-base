@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-006",
+  "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06672",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527150+00:00",
+  "collected_at": "2026-05-11T09:23:45.527150+00:00",
+  "summary": "该研究揭示了推理模型在长文本处理中因位置偏差导致的性能下降问题，即模型倾向于关注序列开头和结尾的信息而忽略中间内容。通过系统性实验，论文量化了这种偏差对推理准确性的影响，并提出了缓解策略，为改进长上下文推理模型的设计提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127252+00:00"
+}

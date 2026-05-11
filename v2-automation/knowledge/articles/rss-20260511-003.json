@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-003",
+  "title": "Task Paralysis and AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-11T09:23:43.815048+00:00",
+  "collected_at": "2026-05-11T09:23:43.815048+00:00",
+  "summary": "该内容探讨了AI技术如何帮助用户克服任务瘫痪（Task Paralysis）的问题，可能涉及通过AI辅助决策、任务分解或自动化来提升效率。其核心价值在于提供了一种利用AI缓解认知负荷的实用思路。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127246+00:00"
+}

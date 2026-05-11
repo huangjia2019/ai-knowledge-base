@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-010",
+  "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06702",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527175+00:00",
+  "collected_at": "2026-05-11T09:23:45.527175+00:00",
+  "summary": "本文提出CASCADE方法，一种基于案例的持续适应框架，用于在部署阶段动态调整大型语言模型。通过利用历史案例进行增量学习，该方法旨在提升模型在持续变化环境中的适应性和性能，无需重新训练。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127265+00:00"
+}

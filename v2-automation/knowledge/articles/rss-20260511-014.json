@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-014",
+  "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06772",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527192+00:00",
+  "collected_at": "2026-05-11T09:23:45.527192+00:00",
+  "summary": "本文提出SCALAR框架，通过结构化批评-行动循环提升AI辅助理论物理推理能力。核心价值在于将批评机制系统化，使AI代理能通过自我反思改进推理质量，为科学发现提供新范式。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127276+00:00"
+}

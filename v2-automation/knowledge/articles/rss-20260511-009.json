@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-009",
+  "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06696",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527170+00:00",
+  "collected_at": "2026-05-11T09:23:45.527170+00:00",
+  "summary": "该论文提出了一种从多智能体AI系统的内部表征中检测隐藏联盟的谱诊断方法。通过分析智能体之间的交互模式，该方法能够识别出未在表面协议中体现的隐性合作结构，为理解和监控复杂多智能体系统提供了新的工具。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127262+00:00"
+}

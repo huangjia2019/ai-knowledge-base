@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-019",
+  "title": "AGWM: Affordance-Grounded World Models for Environments with Compositional Prerequisites",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06841",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527217+00:00",
+  "collected_at": "2026-05-11T09:23:45.527217+00:00",
+  "summary": "该论文提出了一种基于可供性（affordance）的世界模型（AGWM），用于处理具有组合前提条件的环境。核心价值在于通过将可供性作为中间表示，使智能体能够更有效地进行规划和推理，从而在复杂任务中实现更好的泛化性能。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127290+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-005",
+  "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06671",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527113+00:00",
+  "collected_at": "2026-05-11T09:23:45.527113+00:00",
+  "summary": "GraphDC提出了一种基于分治策略的多智能体系统，用于解决大规模图算法推理问题。通过将复杂图任务分解为子问题并分配给多个智能体协作处理，该方法在可扩展性和推理准确性上取得了显著提升。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127249+00:00"
+}

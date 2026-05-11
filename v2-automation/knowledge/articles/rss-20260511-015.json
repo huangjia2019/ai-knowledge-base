@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260511-015",
+  "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06812",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527197+00:00",
+  "collected_at": "2026-05-11T09:23:45.527197+00:00",
+  "summary": "该论文提出了一种统一的图表示方法，用于增强LLM代理的安全审计能力。通过将代理的行为和交互建模为图结构，该方法能够更有效地追踪和验证代理的决策过程，从而提升系统的透明度和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127279+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-017",
+  "title": "Randomness is sometimes necessary for coordination",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06825",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527208+00:00",
+  "collected_at": "2026-05-11T09:23:45.527208+00:00",
+  "summary": "该内容探讨了在协调问题中随机性的必要性，分析了随机性如何帮助解决确定性策略无法处理的协调困境。核心价值在于为多智能体系统和分布式决策提供理论支持。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127285+00:00"
+}

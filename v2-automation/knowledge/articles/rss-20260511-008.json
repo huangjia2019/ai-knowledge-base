@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260511-008",
+  "title": "State Representation and Termination for Recursive Reasoning Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06690",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T09:23:45.527165+00:00",
+  "collected_at": "2026-05-11T09:23:45.527165+00:00",
+  "summary": "该论文探讨了递归推理系统中的状态表示与终止条件问题，提出了一种形式化方法来确保递归推理过程的正确终止。其核心价值在于为构建复杂推理系统提供了理论基础，有助于提升AI系统的可靠性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T09:25:53.127259+00:00"
+}
