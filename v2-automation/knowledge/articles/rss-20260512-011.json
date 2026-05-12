@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-011",
+  "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08374",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T09:09:48.427413+00:00",
+  "collected_at": "2026-05-12T09:09:48.427413+00:00",
+  "summary": "该论文提出MemQ，一种将Q学习集成到基于溯源有向无环图的自我进化记忆代理中的方法，使代理能够通过强化学习动态优化记忆检索和利用策略。核心价值在于结合图结构记忆与在线学习，提升代理在复杂任务中的长期推理和适应能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T09:11:22.439619+00:00"
+}

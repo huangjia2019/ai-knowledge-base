@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-014",
+  "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08399",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T09:09:48.427427+00:00",
+  "collected_at": "2026-05-12T09:09:48.427427+00:00",
+  "summary": "CoCoDA 提出了一种协同进化的有向无环图（DAG）方法，用于增强工具增强型智能体的能力。该方法通过动态构建和优化任务依赖关系，使智能体能够更高效地组合和调用外部工具，从而提升复杂任务的处理性能。其核心价值在于为工具增强型智能体提供了一种灵活且可扩展的架构，适用于需要多步骤推理和工具调用的场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T09:11:22.439627+00:00"
+}

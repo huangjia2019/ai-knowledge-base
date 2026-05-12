@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-013",
+  "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08388",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T09:09:48.427423+00:00",
+  "collected_at": "2026-05-12T09:09:48.427423+00:00",
+  "summary": "PLACO提出了一种多阶段框架，旨在优化人机协作团队中的成本效益表现。该框架通过分阶段策略平衡人类与AI的贡献，从而在降低总体成本的同时提升团队性能。其核心价值在于为设计高效、经济的人机协作系统提供了系统性方法。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T09:11:22.439624+00:00"
+}

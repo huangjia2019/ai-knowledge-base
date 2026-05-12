@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-010",
+  "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08368",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T09:09:48.427408+00:00",
+  "collected_at": "2026-05-12T09:09:48.427408+00:00",
+  "summary": "该论文从自由能原理的视角，探讨了后训练阶段中能力激发与能力创造的区别，提出了一种理论框架来区分这两种过程。其核心价值在于为理解大语言模型后训练中的能力变化提供了新的理论视角，有助于优化训练策略。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T09:11:22.439616+00:00"
+}
