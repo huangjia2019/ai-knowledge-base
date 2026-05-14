@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-012",
+  "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12835",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588312+00:00",
+  "collected_at": "2026-05-14T09:08:13.588312+00:00",
+  "summary": "PROMETHEUS 提出了一种自动化深度因果研究的方法，通过整合文本、数据和模型来提升因果推断的准确性和效率。该技术有助于研究人员在复杂系统中自动发现因果关系，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014279+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-016",
+  "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12922",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588332+00:00",
+  "collected_at": "2026-05-14T09:08:13.588332+00:00",
+  "summary": "本文探讨了大型语言模型在多轮对话中注意力机制失效的问题，分析了模型如何因上下文过长或注意力分散而丢失对话线索。该研究为改进LLM的长期交互能力提供了重要见解，对提升对话系统的连贯性和可靠性具有实际价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014295+00:00"
+}

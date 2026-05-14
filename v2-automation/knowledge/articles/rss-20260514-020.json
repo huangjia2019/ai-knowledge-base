@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-020",
+  "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12978",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588350+00:00",
+  "collected_at": "2026-05-14T09:08:13.588350+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）在持续更新记忆时，原本有用的记忆会变得不可靠的问题。研究揭示了记忆更新过程中的错误累积机制，并提出了改进方向，对提升LLM的长期记忆可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014309+00:00"
+}

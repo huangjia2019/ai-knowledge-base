@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-013",
+  "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12838",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588316+00:00",
+  "collected_at": "2026-05-14T09:08:13.588316+00:00",
+  "summary": "该论文提出了一种基于多模态隐马尔可夫模型（HMM）的方法，用于持续追踪情感状态。通过整合多种模态数据（如语音、面部表情等），模型能够更准确地捕捉情感的动态变化。这项研究为人机交互和情感计算领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014282+00:00"
+}

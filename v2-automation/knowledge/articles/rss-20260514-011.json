@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260514-011",
+  "title": "State-Centric Decision Process",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12755",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588308+00:00",
+  "collected_at": "2026-05-14T09:08:13.588308+00:00",
+  "summary": "该内容提出了一个以状态为中心的决策过程框架，可能涉及强化学习或规划中的状态表示与决策优化。其核心价值在于通过更精细的状态建模提升决策效率与可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014275+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-018",
+  "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588341+00:00",
+  "collected_at": "2026-05-14T09:08:13.588341+00:00",
+  "summary": "该论文提出，基于智能体（Agentic）的AI系统是实现通用人工智能（AGI）的一条可预见路径。它分析了当前AI系统在自主性、规划与工具使用方面的进展，并论证了通过增强智能体的能力，可以逐步逼近AGI。该内容为AI发展路径提供了有价值的理论视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014303+00:00"
+}

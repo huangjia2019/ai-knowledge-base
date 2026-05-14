@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-017",
+  "title": "Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12963",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588336+00:00",
+  "collected_at": "2026-05-14T09:08:13.588336+00:00",
+  "summary": "该论文从控制论角度探讨AI安全性，提出外部不可能性定理和内在必要性概念，并分析实现安全AI的结构性要求。核心价值在于为AI安全研究提供形式化理论基础。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014300+00:00"
+}

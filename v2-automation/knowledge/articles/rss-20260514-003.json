@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-003",
+  "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12655",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T09:08:13.588253+00:00",
+  "collected_at": "2026-05-14T09:08:13.588253+00:00",
+  "summary": "该论文提出了一种基于宏动作的多智能体指令跟随方法，通过价值取消机制解决多智能体协作中的指令冲突问题。核心价值在于提升了多智能体系统在复杂任务中的指令执行准确性和协作效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T09:09:28.014244+00:00"
+}
