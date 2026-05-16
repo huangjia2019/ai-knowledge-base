@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-012",
+  "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14004",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T08:43:26.894559+00:00",
+  "collected_at": "2026-05-16T08:43:26.894559+00:00",
+  "summary": "该论文提出了一种利用自回归序列模型进行条件属性估计的方法，通过将属性估计任务转化为序列生成问题，从而有效利用自回归模型的强大能力。该方法在多个基准数据集上取得了优异性能，展示了自回归模型在结构化预测任务中的潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T08:44:40.313563+00:00"
+}

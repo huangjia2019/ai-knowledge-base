@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-006",
+  "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13848",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T08:43:26.894491+00:00",
+  "collected_at": "2026-05-16T08:43:26.894491+00:00",
+  "summary": "GraphBit 提出了一种基于图的智能体编排框架，通过非线性图结构替代传统的线性或树状流程，实现更灵活和高效的智能体协作。该框架的核心价值在于提升了复杂任务中智能体间动态交互与资源调度的能力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T08:44:40.313542+00:00"
+}

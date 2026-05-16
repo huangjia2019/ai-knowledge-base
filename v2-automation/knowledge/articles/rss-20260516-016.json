@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-016",
+  "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14038",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T08:43:26.894591+00:00",
+  "collected_at": "2026-05-16T08:43:26.894591+00:00",
+  "summary": "该论文提出了一种模型自适应的工具必要性判断方法，旨在揭示大语言模型在工具使用中存在的“知道-做”差距。核心价值在于通过动态评估工具需求，提升LLM工具调用的准确性和效率。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T08:44:40.313582+00:00"
+}

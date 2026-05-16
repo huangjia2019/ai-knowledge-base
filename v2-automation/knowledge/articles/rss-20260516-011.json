@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-011",
+  "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T08:43:26.894554+00:00",
+  "collected_at": "2026-05-16T08:43:26.894554+00:00",
+  "summary": "该论文提出了PolitNuggets，一个用于发现长尾政治事实的智能体基准测试框架。它通过模拟智能体自主搜索和验证政治信息的过程，评估AI系统在复杂、不常见政治知识上的推理和检索能力。该工作为政治事实核查和知识发现提供了新的评估标准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T08:44:40.313560+00:00"
+}

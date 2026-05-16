@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-019",
+  "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.14051",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T08:43:26.894604+00:00",
+  "collected_at": "2026-05-16T08:43:26.894604+00:00",
+  "summary": "SPIN 提出了一种基于迭代导航的结构化 LLM 规划方法，用于工业任务。该方法通过将复杂任务分解为可管理的子任务，并利用 LLM 的推理能力逐步生成和执行计划，从而提高了工业自动化中的任务完成效率和可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T08:44:40.313592+00:00"
+}
