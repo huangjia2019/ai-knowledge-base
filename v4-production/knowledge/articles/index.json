@@ -1498,5 +1498,65 @@
     "title": "mem0ai/mem0",
     "category": "agent",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-19-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-19-001",
+    "title": "langgenius/dify",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-19-002",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-19-003",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-19-004",
+    "title": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-19-005",
+    "title": "infiniflow/ragflow",
+    "category": "rag",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-19-006",
+    "title": "OpenHands/OpenHands",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-19-007",
+    "title": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-19-008",
+    "title": "bytedance/deer-flow",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-19-009",
+    "title": "mem0ai/mem0",
+    "category": "agent",
+    "relevance_score": 0.85
   }
 ]
