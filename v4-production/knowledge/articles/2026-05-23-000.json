@@ -1,0 +1,16 @@
+{
+  "id": "2026-05-23-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-05-23T00:50:44.131046+00:00",
+  "summary": "NousResearch/hermes-agent 是一个开源项目，旨在构建一个能够随着用户使用而不断进化的智能代理。该项目基于 Hermes 系列模型，强调代理的适应性和成长性，可能通过持续学习和用户交互来优化行为。它可能涉及记忆管理、个性化调整或动态技能扩展，适用于需要长期陪伴或个性化服务的场景。",
+  "tags": [
+    "智能代理",
+    "持续学习",
+    "个性化"
+  ],
+  "relevance_score": 0.75,
+  "category": "agent",
+  "key_insight": "通过持续学习和用户交互，代理能够动态适应并成长，实现个性化服务。"
+}
