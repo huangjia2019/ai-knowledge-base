@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-005",
+  "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22866",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T09:34:06.312623+00:00",
+  "collected_at": "2026-05-25T09:34:06.312623+00:00",
+  "summary": "BOHM提出了一种零成本的分层归因方法，用于复合AI系统，能够在不增加计算开销的情况下解释模型决策。该方法通过层次化归因机制，提升了AI系统的可解释性和透明度，适用于复杂多组件系统。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T09:35:26.403734+00:00"
+}

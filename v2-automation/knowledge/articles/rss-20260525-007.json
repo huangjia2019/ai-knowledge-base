@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-007",
+  "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T09:34:06.312676+00:00",
+  "collected_at": "2026-05-25T09:34:06.312676+00:00",
+  "summary": "该论文提出了RMA，一个用于解决研究级数学问题的智能体系统。它通过结合推理、工具使用和搜索策略，展示了AI在复杂数学推理任务上的潜力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T09:35:26.403744+00:00"
+}

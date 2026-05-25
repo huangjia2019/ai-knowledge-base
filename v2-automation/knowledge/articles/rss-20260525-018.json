@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-018",
+  "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23218",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T09:34:06.312737+00:00",
+  "collected_at": "2026-05-25T09:34:06.312737+00:00",
+  "summary": "该论文提出了一个名为Foundation Protocol的协调层，旨在为智能体社会提供基础通信与协作框架。其核心价值在于通过标准化协议解决多智能体系统中的交互与协调问题，推动自主智能体社会的构建。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T09:35:26.403780+00:00"
+}

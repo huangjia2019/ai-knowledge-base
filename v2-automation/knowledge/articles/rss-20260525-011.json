@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260525-011",
+  "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22900",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T09:34:06.312698+00:00",
+  "collected_at": "2026-05-25T09:34:06.312698+00:00",
+  "summary": "该论文系统性地介绍了中介模糊逻辑，从经典的Type-1模糊逻辑出发，逐步扩展到Type-2、Type-3乃至量子扩展，为处理更复杂的不确定性和模糊性提供了理论框架。其核心价值在于为人工智能领域中的不确定性推理和决策提供了更强大的数学工具，尤其适用于需要高精度模糊建模的场景。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T09:35:26.403757+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-013",
+  "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T09:34:06.312707+00:00",
+  "collected_at": "2026-05-25T09:34:06.312707+00:00",
+  "summary": "该论文探讨了确定性边界的概念，提出将不可能性结果作为可信AI系统的设计规范。核心价值在于为AI系统的可信性设计提供理论指导，帮助开发者理解系统能力的根本限制。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-25T09:35:26.403763+00:00"
+}
