@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-019",
+  "title": "Exploiting Local Dynamics Regularity for Reusable Skills in Offline Hierarchical RL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26371",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675418+00:00",
+  "collected_at": "2026-05-27T09:22:29.675418+00:00",
+  "summary": "该论文提出了一种在离线分层强化学习中利用局部动力学规律性来发现可复用技能的方法。通过识别状态空间中具有一致动态特性的局部区域，算法能够从中提取出可迁移的技能，从而提升样本效率和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431718+00:00"
+}

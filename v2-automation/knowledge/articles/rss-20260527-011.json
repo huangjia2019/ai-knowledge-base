@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-011",
+  "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26302",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675376+00:00",
+  "collected_at": "2026-05-27T09:22:29.675376+00:00",
+  "summary": "该论文提出了“智能体寿命工程”概念，关注AI代理在长期部署中的性能退化问题。它分析了代理随时间老化的原因，并提供了系统性的监控、维护和更新策略，以保障生产环境的可靠性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431694+00:00"
+}

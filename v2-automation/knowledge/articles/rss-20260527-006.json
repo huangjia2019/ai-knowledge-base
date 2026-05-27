@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-006",
+  "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26182",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675308+00:00",
+  "collected_at": "2026-05-27T09:22:29.675308+00:00",
+  "summary": "BrickAnything提出了一种基于几何条件的可构建积木生成方法，通过结构感知的标记化技术，实现了从任意几何形状到可实际搭建的积木模型的自动转换。该方法在保持结构稳定性的同时，显著提升了生成积木的多样性和可构建性，为3D内容生成与实体建造的桥梁提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431672+00:00"
+}

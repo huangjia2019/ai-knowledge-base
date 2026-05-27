@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-018",
+  "title": "Automatic Layer Selection for Hallucination Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26366",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675413+00:00",
+  "collected_at": "2026-05-27T09:22:29.675413+00:00",
+  "summary": "该研究提出了一种自动选择网络层的方法，用于检测大语言模型中的幻觉现象。通过分析模型内部表示，该方法能够在不依赖外部知识的情况下有效识别幻觉，提升了检测的准确性和效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431715+00:00"
+}

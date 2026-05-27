@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260527-010",
+  "title": "Constraint acquisition needs better benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26279",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675371+00:00",
+  "collected_at": "2026-05-27T09:22:29.675371+00:00",
+  "summary": "该论文指出当前约束获取（Constraint Acquisition）领域缺乏标准化的基准测试，导致方法比较困难。作者呼吁社区构建更全面、更具挑战性的基准，以推动该技术的实际应用和评估。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431691+00:00"
+}

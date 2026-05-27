@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-017",
+  "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26340",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675408+00:00",
+  "collected_at": "2026-05-27T09:22:29.675408+00:00",
+  "summary": "该论文提出了ScientistOne，一种通过链式证据实现人类级自主研究的新方法。核心价值在于模拟人类研究者的推理过程，提升AI在科学发现中的自主性和可靠性。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431713+00:00"
+}

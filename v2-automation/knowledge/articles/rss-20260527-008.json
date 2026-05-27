@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-008",
+  "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26252",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T09:22:29.675361+00:00",
+  "collected_at": "2026-05-27T09:22:29.675361+00:00",
+  "summary": "该论文探讨了AI代理长期记忆的数据基础，质疑传统数据库是否适合代理记忆，并提出重新思考数据架构的必要性。核心价值在于为构建更有效的AI代理记忆系统提供理论指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T09:23:53.431679+00:00"
+}
