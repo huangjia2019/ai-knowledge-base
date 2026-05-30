@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260530-006",
+  "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/torch-profiler",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T08:57:36.026291+00:00",
+  "collected_at": "2026-05-30T08:57:36.026291+00:00",
+  "summary": "本文是PyTorch性能分析系列教程的第一部分，面向初学者介绍torch.profiler工具的基本使用方法。内容涵盖如何利用该工具监控和优化PyTorch模型的性能瓶颈，为后续深入学习奠定基础。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-05-30T08:58:34.937413+00:00"
+}

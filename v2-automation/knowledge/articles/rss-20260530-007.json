@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-007",
+  "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T08:57:36.026331+00:00",
+  "collected_at": "2026-05-30T08:57:36.026331+00:00",
+  "summary": "该基准测试评估了前沿AI模型在企业IT任务上的表现，结果显示得分低于50%，表明当前模型在复杂企业场景中仍有显著不足。该研究由Artificial Analysis和IBM联合发布，为评估和提升AI在企业IT领域的应用能力提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-30T08:58:34.937416+00:00"
+}
