@@ -2218,5 +2218,65 @@
     "title": "mem0ai/mem0",
     "category": "agent",
     "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-31-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-05-31-001",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-31-002",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-05-31-003",
+    "title": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-31-004",
+    "title": "infiniflow/ragflow",
+    "category": "rag",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-31-005",
+    "title": "OpenHands/OpenHands",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-31-006",
+    "title": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-05-31-007",
+    "title": "bytedance/deer-flow",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-31-008",
+    "title": "earendil-works/pi",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-05-31-009",
+    "title": "mem0ai/mem0",
+    "category": "framework",
+    "relevance_score": 0.85
   }
 ]
