@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260601-005",
+  "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30576",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T10:01:10.556702+00:00",
+  "collected_at": "2026-06-01T10:01:10.556702+00:00",
+  "summary": "该论文提出了一种在自动驾驶强化学习中引入不确定性感知和时间调节的专家建议方法，旨在提高学习效率和安全性。通过动态调整专家干预的时机和权重，该方法能有效应对复杂驾驶场景中的不确定性，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T10:02:18.022052+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-011",
+  "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30747",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T10:01:10.556732+00:00",
+  "collected_at": "2026-06-01T10:01:10.556732+00:00",
+  "summary": "该论文提出利用扩散模型为知识图谱推理生成图结构规则，以替代传统手工或搜索式规则生成方法。通过将规则生成建模为图生成过程，该方法能自动学习复杂规则模式，提升知识图谱推理的准确性和泛化能力。",
+  "score": 8,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-01T10:02:18.022080+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-008",
+  "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30664",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T10:01:10.556718+00:00",
+  "collected_at": "2026-06-01T10:01:10.556718+00:00",
+  "summary": "该论文提出了一种结构诱导信息方法，用于改进Levin树搜索的重路由过程，通过利用问题结构信息提升搜索效率。核心价值在于为树搜索算法提供了新的信息利用方式，可能加速复杂问题的求解。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T10:02:18.022067+00:00"
+}

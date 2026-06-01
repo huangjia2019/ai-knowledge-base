@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260601-002",
+  "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30542",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T10:01:10.556675+00:00",
+  "collected_at": "2026-06-01T10:01:10.556675+00:00",
+  "summary": "该论文提出了一种基于查询条件的具身AI框架，通过构建物理上可行的世界模型来提升智能体在复杂环境中的决策能力。核心价值在于将物理约束与查询条件结合，使AI能够生成更符合现实世界规律的交互行为。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T10:02:18.022039+00:00"
+}
