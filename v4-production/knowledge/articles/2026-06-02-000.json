@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-02-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-06-02T00:58:44.186961+00:00",
+  "summary": "Hermes-Agent 是一个由 Nous Research 开发的智能代理项目，旨在与用户共同成长。它基于大型语言模型（LLM）构建，强调自适应学习和个性化交互，能够根据用户的使用习惯和反馈不断优化自身行为。该项目可能集成了记忆管理、工具调用和持续学习机制，以提供更自然、高效的助手体验。目前处于早期开发阶段，代码和文档有限，但体现了代理系统向动态、长期协作方向发展的趋势。",
+  "tags": [
+    "AI Agent",
+    "自适应学习",
+    "个性化助手",
+    "持续学习",
+    "Nous Research"
+  ],
+  "relevance_score": 0.7,
+  "category": "agent",
+  "key_insight": "Hermes-Agent 的核心在于通过持续交互实现代理与用户的共同进化，而非静态的任务执行。"
+}
