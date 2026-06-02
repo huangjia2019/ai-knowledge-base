@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-006",
+  "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00005",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908765+00:00",
+  "collected_at": "2026-06-02T09:40:23.908765+00:00",
+  "summary": "该研究提出了一种基于拜占庭容错（BFT）协议的多模型AI系统协作审议机制，用于实现知识综合。核心价值在于将分布式系统的容错思想引入多智能体协作，提升多模型系统在不确定环境下的决策鲁棒性和知识整合能力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605197+00:00"
+}

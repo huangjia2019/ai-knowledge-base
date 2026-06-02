@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-015",
+  "title": "Evaluating Interactive Reasoning in Large Language Models: A Hierarchical Benchmark with Executable Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00103",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908817+00:00",
+  "collected_at": "2026-06-02T09:40:23.908817+00:00",
+  "summary": "该论文提出了一种基于可执行游戏的分层基准测试方法，用于评估大型语言模型在交互式推理中的表现。通过设计不同复杂度的游戏场景，该基准能够系统性地测试模型的规划、决策和动态适应能力，为LLM的交互式推理能力提供了更全面的评估框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605224+00:00"
+}

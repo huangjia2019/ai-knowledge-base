@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260602-005",
+  "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908719+00:00",
+  "collected_at": "2026-06-02T09:40:23.908719+00:00",
+  "summary": "该论文探讨了决策引擎在求解后阶段的鲁棒性问题，重点关注可行域在扰动下的平滑性。核心价值在于为决策系统的可靠性提供了理论分析框架，有助于提升AI决策在实际应用中的稳定性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605194+00:00"
+}

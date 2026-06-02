@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-016",
+  "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00138",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908822+00:00",
+  "collected_at": "2026-06-02T09:40:23.908822+00:00",
+  "summary": "该论文提出了一种基于多AI智能体的框架，用于实现固体力学问题的端到端有限元分析。该框架通过多个智能体协同工作，自动化完成从问题描述到结果输出的整个流程，显著提升了工程分析的效率和可访问性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605227+00:00"
+}

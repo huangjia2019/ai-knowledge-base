@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-019",
+  "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00240",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908837+00:00",
+  "collected_at": "2026-06-02T09:40:23.908837+00:00",
+  "summary": "该论文提出了一种名为MindZero的方法，旨在实现在线心理推理，且无需任何标注数据。其核心价值在于通过零标注学习，降低了心理推理任务中数据获取的成本，为相关领域的研究提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605236+00:00"
+}

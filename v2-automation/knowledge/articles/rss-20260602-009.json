@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-009",
+  "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00009",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908784+00:00",
+  "collected_at": "2026-06-02T09:40:23.908784+00:00",
+  "summary": "该论文提出了一种基于最优传输理论的排列不变贝叶斯优化方法，用于海上风电场布局设计。通过将风电场布局视为排列不变问题，该方法能够高效地搜索最优的风机位置，从而最大化发电效率并降低建设成本。这项研究为复杂工程优化问题提供了新的技术路径，具有重要的实际应用价值。",
+  "score": 7,
+  "tags": [
+    "optimization",
+    "bayesian-optimization",
+    "optimal-transport"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605206+00:00"
+}

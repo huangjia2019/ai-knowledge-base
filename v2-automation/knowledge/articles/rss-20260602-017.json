@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-017",
+  "title": "CAST: Non-Privileged Clipped Asymmetric Self-Teaching with Advantage Flipping for GRPO",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00172",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908828+00:00",
+  "collected_at": "2026-06-02T09:40:23.908828+00:00",
+  "summary": "该论文提出了一种名为CAST的非特权裁剪非对称自教学与优势翻转方法，用于改进GRPO（群体相对策略优化）算法。核心创新在于通过非对称自教学机制和优势翻转策略，在无需特权信息的情况下提升强化学习效率，适用于大规模语言模型的训练优化。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605230+00:00"
+}

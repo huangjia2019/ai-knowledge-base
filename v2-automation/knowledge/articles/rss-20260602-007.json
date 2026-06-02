@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260602-007",
+  "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00007",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T09:40:23.908774+00:00",
+  "collected_at": "2026-06-02T09:40:23.908774+00:00",
+  "summary": "该论文提出了一种名为Deliberative Curation的协议，用于多智能体知识库的构建与管理。其核心价值在于通过智能体间的协商机制，实现知识的高效筛选与整合，从而提升知识库的质量与实用性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T09:41:31.605200+00:00"
+}
