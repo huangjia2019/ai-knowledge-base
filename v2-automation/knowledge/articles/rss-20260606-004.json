@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260606-004",
+  "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.anthropic.com/institute/recursive-self-improvement",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-06T09:02:50.010572+00:00",
+  "collected_at": "2026-06-06T09:02:50.010572+00:00",
+  "summary": "本文探讨了AI实现递归自我改进的进展，即AI系统能够自主优化自身代码和架构。核心价值在于分析这一技术路径的可行性、当前挑战及潜在影响，为理解AI自主进化提供关键视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-06T09:04:07.021382+00:00"
+}
