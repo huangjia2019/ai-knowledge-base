@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-004",
+  "title": "Five labs, five minds: building a multi-model finance drama on small models",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T09:13:05.033628+00:00",
+  "collected_at": "2026-06-07T09:13:05.033628+00:00",
+  "summary": "本文探讨了如何利用多个小型模型协同构建金融剧集，展示了多模型架构在特定领域应用中的潜力。通过整合五个不同的小模型，实现了复杂叙事和数据分析的结合，为资源受限场景下的AI应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T09:14:14.551115+00:00"
+}
