@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-002",
+  "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06514",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299717+00:00",
+  "collected_at": "2026-06-08T09:48:03.299717+00:00",
+  "summary": "该论文提出将公平性视为一种对称性操作，通过数学框架检测和缓解AI系统中的偏见。其核心价值在于提供了一种形式化的方法，将公平性约束融入模型训练过程，从而在不显著牺牲性能的前提下减少歧视性输出。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651557+00:00"
+}

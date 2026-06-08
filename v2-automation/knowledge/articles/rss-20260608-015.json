@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-015",
+  "title": "AdMem: Advanced Memory for Task-solving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06787",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299812+00:00",
+  "collected_at": "2026-06-08T09:48:03.299812+00:00",
+  "summary": "AdMem 提出了一种针对任务求解型智能体的高级记忆机制，通过结构化存储和动态检索增强智能体在复杂任务中的长期推理与决策能力。该技术旨在解决现有记忆模块在信息持久化与上下文关联上的不足，提升智能体的自主性和效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651610+00:00"
+}

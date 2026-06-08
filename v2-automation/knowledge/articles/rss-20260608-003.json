@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-003",
+  "title": "DiBS: Diffusion-Informed Branch Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06518",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299746+00:00",
+  "collected_at": "2026-06-08T09:48:03.299746+00:00",
+  "summary": "DiBS 提出了一种基于扩散模型的分支选择方法，用于在决策树或类似结构中动态选择最优分支，提升模型在复杂任务中的推理效率。该方法通过扩散过程生成候选分支并评估其质量，为树形结构搜索提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651567+00:00"
+}

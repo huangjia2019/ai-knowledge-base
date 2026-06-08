@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-005",
+  "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06523",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299763+00:00",
+  "collected_at": "2026-06-08T09:48:03.299763+00:00",
+  "summary": "该论文提出Lean4Agent，一个用于智能体工作流和轨迹的形式化建模与验证框架。它通过形式化方法确保智能体行为的正确性和可靠性，为复杂AI系统的安全部署提供了重要工具。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651575+00:00"
+}

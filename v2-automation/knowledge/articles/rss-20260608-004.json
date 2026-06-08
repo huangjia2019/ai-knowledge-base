@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-004",
+  "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06519",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299754+00:00",
+  "collected_at": "2026-06-08T09:48:03.299754+00:00",
+  "summary": "SafeGene 提出了一种可重用的适配器方法，用于实现可迁移的安全对齐，旨在解决大语言模型在不同任务和场景下的安全对齐问题。该方法通过轻量级适配器实现安全约束的迁移，提升了模型的安全性和泛化能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651572+00:00"
+}

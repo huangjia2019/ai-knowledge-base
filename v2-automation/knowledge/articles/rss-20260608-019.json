@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-019",
+  "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T09:48:03.299832+00:00",
+  "collected_at": "2026-06-08T09:48:03.299832+00:00",
+  "summary": "该论文提出了一种受量子启发的轨迹增强证据选择方法，用于在结构化假设空间中进行推理。通过引入量子计算中的叠加和干涉概念，该方法能够更有效地从大量证据中筛选出关键信息，从而提升推理的准确性和效率。其核心价值在于为复杂推理任务提供了一种新颖的、基于量子理论的解决方案。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-08T09:49:24.651627+00:00"
+}
