@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-018",
+  "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10254",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T09:27:16.378827+00:00",
+  "collected_at": "2026-06-10T09:27:16.378827+00:00",
+  "summary": "该论文提出了RealMath-Eval基准，用于评估AI模型在真实人类数学推理场景中的表现。研究发现，当前最先进的评判模型（如GPT-4）在评估复杂的人类推理过程时存在显著困难，揭示了现有评估方法的局限性。这项工作为改进AI推理评估提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T09:28:44.075710+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260610-015",
+  "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T09:27:16.378810+00:00",
+  "collected_at": "2026-06-10T09:27:16.378810+00:00",
+  "summary": "该论文提出了一种高效上下文工程方法，通过减少上下文长度来提升长周期工具使用型LLM代理的性能。核心价值在于解决了长上下文场景下的效率与准确性平衡问题，为代理系统设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T09:28:44.075701+00:00"
+}

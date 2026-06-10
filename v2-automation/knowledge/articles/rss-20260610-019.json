@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-019",
+  "title": "Supervised Fine-tuning with Synthetic Rationale Data Hurts Real-World Disease Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10279",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T09:27:16.378831+00:00",
+  "collected_at": "2026-06-10T09:27:16.378831+00:00",
+  "summary": "该论文研究了在疾病预测任务中使用合成推理数据进行监督微调的效果，发现这种方法反而会损害模型在真实世界场景中的表现。核心价值在于揭示了合成数据在医疗等高风险领域应用中的潜在风险，提醒研究者谨慎使用合成推理数据。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T09:28:44.075713+00:00"
+}
