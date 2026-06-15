@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-008",
+  "title": "History of the Muddy Children Puzzle",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13703",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:18:51.300508+00:00",
+  "collected_at": "2026-06-15T10:18:51.300508+00:00",
+  "summary": "该内容回顾了“泥孩子谜题”的历史背景及其在人工智能领域中的意义，特别是作为逻辑推理和知识更新的经典案例。它展示了多智能体系统中共同知识和推理的复杂性，对理解AI中的推理机制有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:20:09.356025+00:00"
+}

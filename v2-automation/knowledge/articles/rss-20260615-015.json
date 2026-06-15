@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-015",
+  "title": "When Sample Selection Bias Precipitates Model Collapse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13732",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:18:51.300541+00:00",
+  "collected_at": "2026-06-15T10:18:51.300541+00:00",
+  "summary": "该论文探讨了样本选择偏差如何导致模型崩溃，即当训练数据存在偏差时，模型性能会逐渐退化。研究揭示了数据偏差对模型长期稳定性的关键影响，为构建更鲁棒的AI系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:20:09.356046+00:00"
+}

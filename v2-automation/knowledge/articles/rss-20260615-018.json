@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-018",
+  "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13815",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:18:51.300559+00:00",
+  "collected_at": "2026-06-15T10:18:51.300559+00:00",
+  "summary": "该论文提出了Poker Arena框架，通过多轴分析评估大语言模型在战略推理和记忆方面的能力。其核心价值在于利用扑克游戏这一复杂交互环境，系统性地测试和比较不同LLM的推理与记忆性能。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:20:09.356058+00:00"
+}

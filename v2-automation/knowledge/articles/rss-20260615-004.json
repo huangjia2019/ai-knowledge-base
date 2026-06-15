@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-004",
+  "title": "AI coding at home without going broke",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-15T10:18:50.113467+00:00",
+  "collected_at": "2026-06-15T10:18:50.113467+00:00",
+  "summary": "本文探讨了如何在不花费大量资金的情况下，在本地环境中进行AI编码。它提供了一些实用的技巧和工具，帮助开发者在有限的预算内实现高效的AI辅助编程。",
+  "score": 6,
+  "tags": [
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:20:09.356006+00:00"
+}

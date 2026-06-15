@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-019",
+  "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13871",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T10:18:51.300566+00:00",
+  "collected_at": "2026-06-15T10:18:51.300566+00:00",
+  "summary": "该论文提出了一种使用超维计算（HDC）对表格数据嵌入进行结构化查询的方法。通过将表格数据映射到高维向量空间，该方法能够高效地执行类似SQL的查询操作，同时保持嵌入的语义信息。这项工作为表格数据的检索和推理提供了一种新的计算范式。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T10:20:09.356062+00:00"
+}
