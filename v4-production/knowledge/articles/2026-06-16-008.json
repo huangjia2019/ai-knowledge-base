@@ -1,0 +1,16 @@
+{
+  "id": "2026-06-16-008",
+  "title": "bytedance/deer-flow",
+  "source": "github",
+  "url": "https://github.com/bytedance/deer-flow",
+  "collected_at": "2026-06-16T01:07:08.485232+00:00",
+  "summary": "DeerFlow 是字节跳动开源的一个长周期超级代理框架，能够自主研究、编写代码和创建内容。它利用沙箱、记忆、工具、技能、子代理和消息网关，处理从几分钟到几小时不等的复杂任务，旨在实现高效的任务分解与执行。",
+  "tags": [
+    "SuperAgent",
+    "长周期任务",
+    "自主编程"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过沙箱和子代理协作，DeerFlow 将长周期任务拆解为可管理的子任务，实现了从研究到代码生成的端到端自动化。"
+}
