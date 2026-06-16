@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260616-003",
+  "title": "Relational Structural Causal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14892",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857230+00:00",
+  "collected_at": "2026-06-16T09:56:14.857230+00:00",
+  "summary": "该论文提出了关系结构因果模型（Relational Structural Causal Models），将因果推理扩展到关系数据领域，能够处理实体间复杂依赖关系。核心价值在于为图结构数据中的因果发现与推断提供了形式化框架，拓展了传统因果模型的应用范围。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.282994+00:00"
+}

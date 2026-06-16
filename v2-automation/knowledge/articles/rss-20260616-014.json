@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-014",
+  "title": "Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15107",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857293+00:00",
+  "collected_at": "2026-06-16T09:56:14.857293+00:00",
+  "summary": "该论文提出了一种基于工具推理的可验证智能体数据科学方法，用于解决不规则时间序列问答（TSQA）问题。通过将工具使用与推理过程相结合，该方法增强了智能体在数据科学任务中的可解释性和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283032+00:00"
+}

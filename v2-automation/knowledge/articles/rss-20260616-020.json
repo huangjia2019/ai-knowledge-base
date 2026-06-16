@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260616-020",
+  "title": "Feature Attribution in Directed Acyclic Graphs Using Edge Intervention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15273",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857322+00:00",
+  "collected_at": "2026-06-16T09:56:14.857322+00:00",
+  "summary": "该论文提出了一种基于边干预的特征归因方法，用于解释有向无环图（DAG）中节点间的因果关系。通过干预图中的边，该方法能够量化每个特征对模型输出的贡献，为图神经网络的可解释性提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283051+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260616-005",
+  "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14935",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857245+00:00",
+  "collected_at": "2026-06-16T09:56:14.857245+00:00",
+  "summary": "PrologMCP 提出了一种标准化的 Prolog 工具接口，旨在让 LLM 代理能够更高效地集成和使用 Prolog 进行逻辑推理。该工具通过模型上下文协议（MCP）统一了 Prolog 与 LLM 的交互方式，提升了代理在复杂推理任务中的表现。其核心价值在于为 LLM 代理提供了一种可靠且标准化的逻辑推理能力扩展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283001+00:00"
+}

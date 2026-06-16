@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-018",
+  "title": "Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15231",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857311+00:00",
+  "collected_at": "2026-06-16T09:56:14.857311+00:00",
+  "summary": "Visual-Seeker 提出了一种视觉原生多模态智能体搜索方法，通过主动视觉推理实现更自然的交互式搜索。其核心价值在于将视觉理解与智能体决策结合，提升搜索的准确性和用户体验。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283044+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-008",
+  "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15029",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857263+00:00",
+  "collected_at": "2026-06-16T09:56:14.857263+00:00",
+  "summary": "本文提出了一种名为Metric Match的子集选择方法，用于评估LLM裁判的可靠性。该方法通过选择最具代表性的评估指标子集，有效衡量LLM作为裁判时的表现，为LLM评估提供了一种新的可靠性验证途径。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283010+00:00"
+}

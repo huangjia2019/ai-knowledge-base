@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-011",
+  "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15077",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857277+00:00",
+  "collected_at": "2026-06-16T09:56:14.857277+00:00",
+  "summary": "该论文提出了一种风险感知的LLM智能体框架，用于地理空间数据检索，并进行了初步的对抗性评估。核心价值在于通过引入风险感知机制，增强了LLM智能体在地理空间数据检索任务中的鲁棒性和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283023+00:00"
+}

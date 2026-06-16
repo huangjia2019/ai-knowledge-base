@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260616-019",
+  "title": "Mask-Proof: An LLM-based Automated Data Curation Pipeline on Mathematical Proofs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15258",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857317+00:00",
+  "collected_at": "2026-06-16T09:56:14.857317+00:00",
+  "summary": "该论文提出了一种基于大型语言模型（LLM）的自动化数据整理流程，专门用于处理数学证明数据。其核心价值在于通过LLM自动筛选、清洗和增强数学证明数据集，从而提升训练数据的质量，并可能改善LLM在数学推理任务上的表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283047+00:00"
+}

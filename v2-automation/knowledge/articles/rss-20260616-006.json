@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-006",
+  "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T09:56:14.857251+00:00",
+  "collected_at": "2026-06-16T09:56:14.857251+00:00",
+  "summary": "该论文提出了一种语义增强的检索增强时间序列预测方法，通过引入语义信息来提升时间序列预测的准确性。核心价值在于将检索增强生成（RAG）技术应用于时间序列领域，为传统预测任务提供了新的解决思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T09:57:36.283004+00:00"
+}
