@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260618-002",
+  "title": "AI demands more engineering discipline. Not less",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-18T09:40:43.596803+00:00",
+  "collected_at": "2026-06-18T09:40:43.596803+00:00",
+  "summary": "本文探讨了AI开发需要更强的工程纪律，而非更少。它强调了在构建AI系统时，严谨的工程实践、测试和可维护性至关重要，以确保可靠性和可扩展性。核心价值在于纠正了AI开发可以随意进行的误解，提倡将软件工程最佳实践应用于AI领域。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-18T09:41:59.371279+00:00"
+}
