@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-020",
+  "title": "GLARE: A Natural Language Interface for Querying Global Explanations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19735",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420376+00:00",
+  "collected_at": "2026-06-19T09:43:58.420376+00:00",
+  "summary": "GLARE 提出了一种自然语言接口，用于查询全局解释，旨在提升用户对 AI 模型决策的理解。该技术通过将自然语言查询映射到全局解释方法，增强了可解释 AI 的可用性和交互性。其核心价值在于降低非专家用户理解复杂模型的门槛。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936168+00:00"
+}

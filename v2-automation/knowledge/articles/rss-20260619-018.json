@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-018",
+  "title": "Exit-and-Join Dynamics for Decentralized Coalition Formation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19683",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420367+00:00",
+  "collected_at": "2026-06-19T09:43:58.420367+00:00",
+  "summary": "该论文研究了去中心化联盟形成中的退出与加入动态，提出了一种基于博弈论的模型来分析个体如何通过退出和加入行为形成稳定联盟。核心价值在于为多智能体系统中的协作与竞争提供了理论框架，有助于理解分布式环境下的群体决策过程。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936163+00:00"
+}

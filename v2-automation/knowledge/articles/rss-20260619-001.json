@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-001",
+  "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19464",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420225+00:00",
+  "collected_at": "2026-06-19T09:43:58.420225+00:00",
+  "summary": "本文提出了一种基于道义逻辑的策略框架，用于在运行时治理自主AI系统。该框架通过定义义务、许可和禁止等规范，确保AI代理的行为符合预设的伦理和操作规则，从而提升系统的安全性和可控性。核心价值在于为复杂AI系统的实时监管提供了形式化方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936098+00:00"
+}

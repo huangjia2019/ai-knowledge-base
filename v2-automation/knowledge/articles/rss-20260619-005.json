@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-005",
+  "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420289+00:00",
+  "collected_at": "2026-06-19T09:43:58.420289+00:00",
+  "summary": "该论文提出了一个名为DeXposure-Claw的智能体系统，用于去中心化金融（DeFi）的风险监管。该系统通过自动化代理技术，实时监控和评估DeFi协议中的风险暴露，旨在提升DeFi生态系统的安全性和透明度。其核心价值在于为DeFi领域提供了一种高效、可扩展的风险管理工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936120+00:00"
+}

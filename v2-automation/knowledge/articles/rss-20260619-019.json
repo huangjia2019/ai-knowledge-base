@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-019",
+  "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19704",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420372+00:00",
+  "collected_at": "2026-06-19T09:43:58.420372+00:00",
+  "summary": "该论文提出超越静态排行榜的评估方法，通过预测有效性来评估LLM代理在实际任务中的表现。核心价值在于提供更动态、更贴近真实应用的评估框架，以弥补传统静态评估的不足。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936166+00:00"
+}

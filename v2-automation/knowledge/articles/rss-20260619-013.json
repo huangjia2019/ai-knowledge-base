@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-013",
+  "title": "Which Pairs to Compare for LLM Post-Training?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T09:43:58.420345+00:00",
+  "collected_at": "2026-06-19T09:43:58.420345+00:00",
+  "summary": "该论文探讨了在LLM后训练阶段中，哪些数据对（pairs）用于比较训练效果最优。核心内容是比较不同对比学习策略对模型性能的影响，为后训练数据选择提供指导。价值在于提升LLM后训练的效率和效果。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T09:45:10.936149+00:00"
+}
