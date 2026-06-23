@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260623-008",
+  "title": "Path-dependent program induction under resource constraints explains human sequence learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20623",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T09:21:09.804305+00:00",
+  "collected_at": "2026-06-23T09:21:09.804305+00:00",
+  "summary": "该论文提出了一种在资源约束下进行路径依赖程序归纳的方法，用于解释人类序列学习行为。通过模拟人类在有限计算资源下的学习过程，该方法能够更准确地预测人类在序列学习任务中的表现，为理解人类认知机制提供了新的计算模型。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T09:22:28.630076+00:00"
+}

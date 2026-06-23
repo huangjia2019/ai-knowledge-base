@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260623-012",
+  "title": "Human Decision-Making with AI Assistance under Correlated Features",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20628",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T09:21:09.804323+00:00",
+  "collected_at": "2026-06-23T09:21:09.804323+00:00",
+  "summary": "该研究探讨在特征相关条件下，人类如何借助AI辅助进行决策。核心内容分析AI建议对决策准确性和人类判断的影响，价值在于揭示人机协作决策的优化策略。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T09:22:28.630089+00:00"
+}

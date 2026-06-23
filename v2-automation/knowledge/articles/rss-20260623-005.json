@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-005",
+  "title": "Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20615",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T09:21:09.804287+00:00",
+  "collected_at": "2026-06-23T09:21:09.804287+00:00",
+  "summary": "该论文提出了一种用于定义AI-SDLC（AI软件开发生命周期）流程的协议语言，旨在明确人类与AI代理之间的边界。其核心价值在于为AI辅助软件开发提供标准化的流程描述方法，提升人机协作的效率和可控性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T09:22:28.630065+00:00"
+}

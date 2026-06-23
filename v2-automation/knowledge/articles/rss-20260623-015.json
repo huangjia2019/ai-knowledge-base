@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-015",
+  "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20636",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T09:21:09.804337+00:00",
+  "collected_at": "2026-06-23T09:21:09.804337+00:00",
+  "summary": "SkillHarness 提出了一种安全技能框架，用于计算机使用代理，通过将复杂任务分解为可验证的安全技能，确保代理在操作过程中不执行危险行为。该方法结合了技能库和运行时监控，提升了代理的可靠性和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T09:22:28.630099+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-014",
+  "title": "DEMM-Bench: A Cross-Regime Benchmark for Agent-Runtime Governance-Evidence Sufficiency",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20634",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T09:21:09.804333+00:00",
+  "collected_at": "2026-06-23T09:21:09.804333+00:00",
+  "summary": "DEMM-Bench是一个跨机制基准测试，用于评估智能体运行时治理的证据充分性。它通过标准化测试框架，帮助验证智能体在不同运行环境下的行为合规性和证据完整性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T09:22:28.630096+00:00"
+}
