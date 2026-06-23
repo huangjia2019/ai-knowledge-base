@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-06-23T00:52:41.811125+00:00",
+  "summary": "NousResearch/hermes-agent 是一个基于 Hermes 系列模型的智能代理项目，旨在提供可随用户需求增长而扩展的个性化 AI 助手。它结合了大型语言模型（LLM）与代理框架，支持工具调用、记忆管理和多轮对话，适用于自动化任务、知识检索和交互式应用。项目强调模块化设计和持续学习能力，允许用户通过插件或自定义配置增强功能，适合开发者和研究者快速构建定制化 AI 代理。",
+  "tags": [
+    "AI Agent",
+    "Hermes",
+    "LLM",
+    "工具调用",
+    "模块化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过模块化设计和持续学习机制，实现代理能力的动态扩展，满足用户从简单到复杂场景的渐进式需求。"
+}
