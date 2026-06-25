@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-005",
+  "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24965",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T09:17:51.197811+00:00",
+  "collected_at": "2026-06-25T09:17:51.197811+00:00",
+  "summary": "该论文提出了Project Auto-World，一个用于自动基准测试神经关系推理器的框架。其核心价值在于通过自动化流程，系统性地评估和比较不同推理器在关系推理任务上的表现，从而推动该领域的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T09:19:09.782947+00:00"
+}

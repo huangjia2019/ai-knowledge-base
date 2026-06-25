@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-004",
+  "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T09:17:51.197769+00:00",
+  "collected_at": "2026-06-25T09:17:51.197769+00:00",
+  "summary": "该文章系统性地介绍了自主AI智能体（Agentic AI）从基础概念到系统构建的完整指南，涵盖了智能体的核心组件、设计原则和实际应用案例。它为读者提供了从理论到实践的全面视角，有助于理解如何构建和部署自主AI系统。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T09:19:09.782943+00:00"
+}

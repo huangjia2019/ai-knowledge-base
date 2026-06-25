@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-012",
+  "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25178",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T09:17:51.197877+00:00",
+  "collected_at": "2026-06-25T09:17:51.197877+00:00",
+  "summary": "该论文提出了一种用于多领域强化学习与验证（RLVR）的自动化课程学习方法，旨在提升AI模型的通用推理能力。通过在不同领域间自动安排训练顺序，该方法有效促进了推理技能的迁移，为构建更强大的通用推理系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "fine-tuning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T09:19:09.782968+00:00"
+}

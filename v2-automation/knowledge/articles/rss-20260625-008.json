@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260625-008",
+  "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25103",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T09:17:51.197844+00:00",
+  "collected_at": "2026-06-25T09:17:51.197844+00:00",
+  "summary": "该论文提出了一种高效计算非对称Shapley值的方法，解决了传统Shapley值计算复杂度高的问题。通过引入非对称性，该方法能更准确地反映特征贡献的差异，适用于解释复杂机器学习模型。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T09:19:09.782956+00:00"
+}
