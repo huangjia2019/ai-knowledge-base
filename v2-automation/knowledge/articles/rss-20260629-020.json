@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-020",
+  "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28270",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:46:43.898215+00:00",
+  "collected_at": "2026-06-29T09:46:43.898215+00:00",
+  "summary": "该论文提出了一种名为“Agent-Native Immune System”的新型架构，旨在为AI代理系统提供类似生物免疫系统的安全防护机制。它通过分类法定义了代理系统中的威胁与防御策略，并提供了工程化实现方法，对于提升多代理系统的鲁棒性和安全性具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-29T09:47:56.305112+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-003",
+  "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27483",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:46:43.898126+00:00",
+  "collected_at": "2026-06-29T09:46:43.898126+00:00",
+  "summary": "该论文提出了一种统一的主体训练范式，用于世界模型规划，通过将未来信息内化到模型训练中，提升主体在复杂环境下的规划能力。核心价值在于提供了一种新的训练方法，使模型能够更有效地利用未来状态进行决策，从而在规划任务中取得更优性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:47:56.305054+00:00"
+}

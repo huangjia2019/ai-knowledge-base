@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260629-015",
+  "title": "Lifted Causal Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:46:43.898193+00:00",
+  "collected_at": "2026-06-29T09:46:43.898193+00:00",
+  "summary": "Lifted Causal Inference 提出了一种提升因果推断效率的方法，通过利用概率图模型中的对称性来加速计算，适用于大规模因果推理任务。该技术核心在于将传统因果推断中的变量分组处理，从而降低复杂度，为因果AI应用提供更实用的工具。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:47:56.305097+00:00"
+}

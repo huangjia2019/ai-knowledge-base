@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-017",
+  "title": "Ontology-Guided Evidence Path Inference for Multi-hop Knowledge Graph Question Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28076",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:46:43.898202+00:00",
+  "collected_at": "2026-06-29T09:46:43.898202+00:00",
+  "summary": "该论文提出了一种基于本体引导的证据路径推理方法，用于多跳知识图谱问答任务。通过利用本体结构来约束和引导推理过程，该方法能够更有效地在知识图谱中寻找支持答案的证据路径，从而提升复杂问答的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:47:56.305103+00:00"
+}

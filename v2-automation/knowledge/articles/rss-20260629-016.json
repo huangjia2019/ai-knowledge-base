@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-016",
+  "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28070",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T09:46:43.898198+00:00",
+  "collected_at": "2026-06-29T09:46:43.898198+00:00",
+  "summary": "该论文介绍了京东的Oxygen AI Item Center (Oxygen AIIC) V1，一个以LLM/VLM为核心的工业级商品理解、管理和应用解决方案。它旨在通过大规模语言和视觉模型，提升电商场景下商品数据的自动化处理、知识构建和智能应用能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T09:47:56.305100+00:00"
+}
