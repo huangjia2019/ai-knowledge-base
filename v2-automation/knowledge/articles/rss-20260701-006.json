@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-006",
+  "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30852",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T09:20:17.644631+00:00",
+  "collected_at": "2026-07-01T09:20:17.644631+00:00",
+  "summary": "该论文研究了推理模型中早期退出（early exit）策略的成本效益问题，分析了何时停止推理能够平衡计算开销与模型性能。核心价值在于为资源受限场景下的推理模型部署提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T09:21:32.459876+00:00"
+}

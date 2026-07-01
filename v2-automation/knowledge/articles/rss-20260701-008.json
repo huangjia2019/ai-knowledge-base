@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260701-008",
+  "title": "Investigating Multi-Agent Deliberation in Law",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T09:20:17.644641+00:00",
+  "collected_at": "2026-07-01T09:20:17.644641+00:00",
+  "summary": "该论文探讨了多智能体系统在法律领域的应用，通过模拟多个AI智能体之间的讨论和协商，以提高法律推理和决策的准确性。核心价值在于展示了多智能体协作如何增强复杂法律问题的处理能力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T09:21:32.459883+00:00"
+}

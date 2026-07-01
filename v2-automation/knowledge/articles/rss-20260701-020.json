@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-020",
+  "title": "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31073",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T09:20:17.644694+00:00",
+  "collected_at": "2026-07-01T09:20:17.644694+00:00",
+  "summary": "该论文提出了一个面向大型语言模型（LLM）的多无人机（Multi-UAV）协作任务规划平台、基准测试和框架。它旨在利用LLM的推理能力解决多无人机协同规划中的复杂问题，为相关研究提供了标准化的评估环境和工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T09:21:32.459925+00:00"
+}
