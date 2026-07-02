@@ -4078,5 +4078,65 @@
     "title": "earendil-works/pi",
     "category": "framework",
     "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-001",
+    "title": "langgenius/dify",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-02-002",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-07-02-003",
+    "title": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-004",
+    "title": "infiniflow/ragflow",
+    "category": "rag",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-02-005",
+    "title": "OpenHands/OpenHands",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-006",
+    "title": "bytedance/deer-flow",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-007",
+    "title": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-02-008",
+    "title": "DietrichGebert/ponytail",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-02-009",
+    "title": "earendil-works/pi",
+    "category": "framework",
+    "relevance_score": 0.85
   }
 ]
