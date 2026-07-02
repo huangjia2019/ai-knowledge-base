@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-007",
+  "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00147",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T09:13:26.347116+00:00",
+  "collected_at": "2026-07-02T09:13:26.347116+00:00",
+  "summary": "该论文提出RareDxR1，一种用于罕见病诊断的自主医学推理系统，能够在无需人工标注的情况下进行推理。其核心价值在于通过自动化推理能力提升罕见病诊断的准确性和效率，弥补现有医疗AI在罕见病领域的不足。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-02T09:22:43.204062+00:00"
+}

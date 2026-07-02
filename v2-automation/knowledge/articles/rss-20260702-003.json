@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260702-003",
+  "title": "Bounded Morality: Defining the Space of Moral Computation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T09:13:26.347081+00:00",
+  "collected_at": "2026-07-02T09:13:26.347081+00:00",
+  "summary": "该论文探讨了道德计算的空间定义，提出了一种有界道德的概念，旨在为AI系统在道德决策中提供可操作的框架。通过形式化道德约束，该研究有助于提升AI在复杂场景下的伦理合规性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T09:22:43.204048+00:00"
+}
