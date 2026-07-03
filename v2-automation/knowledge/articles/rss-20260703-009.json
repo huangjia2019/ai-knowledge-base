@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-009",
+  "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01465",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418102+00:00",
+  "collected_at": "2026-07-03T10:46:06.418102+00:00",
+  "summary": "本文探讨了超越传统下一个词预测的强化学习验证推理（RLVR）方法，用于Atlassian工作流中的工具使用代理。通过概念验证，展示了RLVR如何提升代理在复杂工作流中的决策能力和工具调用准确性。该研究为AI代理在真实企业环境中的应用提供了新的训练范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423106+00:00"
+}

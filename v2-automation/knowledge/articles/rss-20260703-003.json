@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-003",
+  "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01366",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418059+00:00",
+  "collected_at": "2026-07-03T10:46:06.418059+00:00",
+  "summary": "该论文提出了一种名为Auto-FL-Research的自动化联邦学习算法搜索方法，通过智能体搜索技术高效发现和优化联邦学习算法。其核心价值在于自动化了传统上依赖人工设计的联邦学习算法开发流程，有望加速该领域的研究进展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423086+00:00"
+}

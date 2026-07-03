@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-019",
+  "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01595",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418147+00:00",
+  "collected_at": "2026-07-03T10:46:06.418147+00:00",
+  "summary": "该论文提出了一种神经符号世界模型，用于验证LLM生成的云修复计划的安全性和适应性。核心价值在于通过结合神经网络和符号推理，确保自动修复方案在动态云环境中的可靠执行。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423144+00:00"
+}

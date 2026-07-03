@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-013",
+  "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01510",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418120+00:00",
+  "collected_at": "2026-07-03T10:46:06.418120+00:00",
+  "summary": "该论文提出了Janus，一个用户参与的代理权限管理框架，旨在让用户能够灵活控制AI代理的权限。其核心价值在于通过用户参与的方式，增强AI代理系统的安全性和可控性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423126+00:00"
+}

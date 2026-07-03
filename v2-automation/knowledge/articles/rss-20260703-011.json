@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-011",
+  "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418112+00:00",
+  "collected_at": "2026-07-03T10:46:06.418112+00:00",
+  "summary": "该论文提出了一种名为“程序性记忆蒸馏”的方法，通过在线反思机制使语言模型能够自我改进。该方法允许模型在生成过程中进行自我反思，并将反思结果蒸馏为程序性记忆，从而在不增加推理成本的情况下提升性能。其核心价值在于为语言模型提供了一种持续自我优化的框架，有望推动AI系统的自主学习和适应能力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423118+00:00"
+}

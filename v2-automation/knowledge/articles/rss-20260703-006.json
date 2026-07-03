@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-006",
+  "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01426",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:46:06.418084+00:00",
+  "collected_at": "2026-07-03T10:46:06.418084+00:00",
+  "summary": "本文探讨了在客户服务运营中，如何通过难度路由控制来决定何时需要人工服务代理重新考虑或介入。核心价值在于提出了一种基于任务难度的动态路由策略，以优化人机协作效率，提升客户服务质量和运营成本效益。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:47:22.423097+00:00"
+}
