@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-018",
+  "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03283",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.479039+00:00",
+  "collected_at": "2026-07-07T11:16:11.479039+00:00",
+  "summary": "该论文提出了“具身算子”概念，旨在构建可复用、可部署的具身智能系统，并设计了相应的基准测试框架。核心价值在于推动具身智能从特定任务模型向通用、模块化系统发展，提升其实际部署能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678228+00:00"
+}

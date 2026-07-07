@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-004",
+  "title": "Automated Data Readiness for Scientific AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02771",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.478925+00:00",
+  "collected_at": "2026-07-07T11:16:11.478925+00:00",
+  "summary": "该论文提出了一种自动化数据准备框架，旨在提升科学AI应用中数据集的可用性和质量。通过自动检测和修复数据问题，显著减少了人工干预，加速了AI模型的训练和部署流程。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678179+00:00"
+}

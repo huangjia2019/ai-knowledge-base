@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-012",
+  "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02983",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.478986+00:00",
+  "collected_at": "2026-07-07T11:16:11.478986+00:00",
+  "summary": "该论文提出了一种利用强化学习训练大型语言模型进行循证诊断推理的方法，通过奖励机制引导模型在医学对话中主动寻求证据并做出准确诊断。核心价值在于将强化学习与LLM结合，提升了模型在复杂医疗场景下的推理能力和可靠性。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678210+00:00"
+}

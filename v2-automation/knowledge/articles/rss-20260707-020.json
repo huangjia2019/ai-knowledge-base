@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260707-020",
+  "title": "When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03386",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.479049+00:00",
+  "collected_at": "2026-07-07T11:16:11.479049+00:00",
+  "summary": "该论文探讨了在缺乏逐状态专家动作的情况下，聚合对齐可能误导策略修复审计的问题。核心价值在于揭示了聚合指标在评估AI策略修复时的局限性，并提出了更可靠的审计方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678233+00:00"
+}

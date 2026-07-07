@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-019",
+  "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03303",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.479044+00:00",
+  "collected_at": "2026-07-07T11:16:11.479044+00:00",
+  "summary": "该论文探讨了在编程教学中，导师的脚手架策略（反思性对话与提示优化）如何影响学生独立使用大型语言模型（LLM）的效果。研究发现，不同的支架方式对学生学习成果和LLM使用能力有显著差异，为教育技术中的AI辅助学习提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678231+00:00"
+}

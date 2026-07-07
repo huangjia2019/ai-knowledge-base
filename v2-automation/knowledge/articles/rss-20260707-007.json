@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-007",
+  "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02879",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.478950+00:00",
+  "collected_at": "2026-07-07T11:16:11.478950+00:00",
+  "summary": "MedCalc-Pro 提出利用大语言模型智能体解决复杂医疗计算问题，通过将医学计算任务分解为子步骤并调用专用工具，提升了计算的准确性和可解释性。该研究展示了LLM在专业领域应用中的潜力，为医疗决策支持提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678189+00:00"
+}

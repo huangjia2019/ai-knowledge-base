@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260707-009",
+  "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02931",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.478961+00:00",
+  "collected_at": "2026-07-07T11:16:11.478961+00:00",
+  "summary": "VERITAS 提出了一种面向科学研究的通用复制工具，旨在解决研究结果难以复现的问题。该工具通过自动化实验复制流程，支持多种研究领域，提升了科学研究的可重复性和可信度。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678196+00:00"
+}

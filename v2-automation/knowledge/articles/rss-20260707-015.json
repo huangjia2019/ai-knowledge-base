@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260707-015",
+  "title": "Silicon Sampling via Cross-Survey Transfer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03091",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.479022+00:00",
+  "collected_at": "2026-07-07T11:16:11.479022+00:00",
+  "summary": "该论文提出了一种跨调查迁移的硅采样方法，旨在通过利用不同调查数据之间的相关性来提高采样效率。其核心价值在于为大规模数据分析提供一种更高效的采样策略。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678219+00:00"
+}

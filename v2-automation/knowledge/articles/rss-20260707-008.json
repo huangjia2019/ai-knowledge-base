@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-008",
+  "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02914",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:16:11.478956+00:00",
+  "collected_at": "2026-07-07T11:16:11.478956+00:00",
+  "summary": "该论文提出Oyster-II方法，利用强化学习对大型语言模型进行建设性安全对齐，旨在提升模型在保持有用性的同时避免有害输出。核心价值在于提供一种平衡安全性与功能性的对齐训练框架。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:17:24.678192+00:00"
+}
