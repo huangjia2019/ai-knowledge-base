@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-009",
+  "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:27:16.432286+00:00",
+  "collected_at": "2026-07-08T10:27:16.432286+00:00",
+  "summary": "该研究提出了一种名为FirstResearch的方法，用于增强大型语言模型科学发现代理的可审计性，通过可审计的问题形成机制确保推理过程的透明和可追溯。其核心价值在于提升AI在科学研究中的可信度和可靠性，为科学发现代理的部署提供了重要的安全保障。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:28:27.128343+00:00"
+}

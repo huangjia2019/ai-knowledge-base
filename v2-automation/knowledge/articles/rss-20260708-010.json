@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-010",
+  "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05690",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:27:16.432291+00:00",
+  "collected_at": "2026-07-08T10:27:16.432291+00:00",
+  "summary": "该论文提出了一种名为“Memory in the Loop”的方法，将检索过程作为语言代理的扩展工作记忆，以增强其长期记忆和上下文处理能力。核心价值在于通过动态检索机制，使代理能够更有效地利用外部知识，提升复杂任务中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:28:27.128350+00:00"
+}

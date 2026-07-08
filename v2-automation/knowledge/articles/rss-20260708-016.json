@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-016",
+  "title": "Controlling Tool Use with Heading-Specific Activation Steering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05790",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:27:16.432321+00:00",
+  "collected_at": "2026-07-08T10:27:16.432321+00:00",
+  "summary": "该研究提出了一种通过标题特定激活引导来控制工具使用的方法，旨在提升AI模型在工具调用中的准确性和可控性。核心价值在于为大型语言模型提供更精细的工具使用控制机制，减少错误调用。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:28:27.128370+00:00"
+}

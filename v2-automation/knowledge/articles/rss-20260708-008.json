@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-008",
+  "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05577",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:27:16.432280+00:00",
+  "collected_at": "2026-07-08T10:27:16.432280+00:00",
+  "summary": "该论文提出了一种基于叙事学理论的作家记忆机制，用于增强长篇小说生成中的叙事连贯性和一致性。通过构建叙事世界模型，该框架能够有效管理长期上下文，提升AI在长篇虚构文本创作中的表现。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:28:27.128339+00:00"
+}

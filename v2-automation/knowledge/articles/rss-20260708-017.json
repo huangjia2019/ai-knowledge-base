@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-017",
+  "title": "From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05794",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:27:16.432326+00:00",
+  "collected_at": "2026-07-08T10:27:16.432326+00:00",
+  "summary": "本文提出了一种将记忆系统从被动检索转变为主动导航的方法，将记忆视为结构化的动作空间，从而提升AI代理在复杂任务中的决策效率。核心价值在于通过重新定义记忆的使用方式，增强了模型的自主性和适应性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:28:27.128373+00:00"
+}
