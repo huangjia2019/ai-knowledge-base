@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-010",
+  "title": "Infinity-Parser2 Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07836",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:44:18.701692+00:00",
+  "collected_at": "2026-07-11T09:44:18.701692+00:00",
+  "summary": "Infinity-Parser2 技术报告介绍了一种新型的文档解析工具，旨在提升从复杂文档中提取结构化数据的效率和准确性。该工具可能结合了视觉和语言模型，以处理表格、图表等非文本元素，为 RAG 系统提供更高质量的输入。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:45:30.028917+00:00"
+}

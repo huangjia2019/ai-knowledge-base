@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-009",
+  "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07775",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:44:18.701688+00:00",
+  "collected_at": "2026-07-11T09:44:18.701688+00:00",
+  "summary": "该论文提出了一种名为Idiobionics的新框架，旨在统一隐私保护与智能机器人假肢技术。核心价值在于通过隐私计算与自适应控制算法的结合，使假肢在提供个性化辅助的同时，确保用户生物数据的安全。",
+  "score": 7,
+  "tags": [
+    "security",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:45:30.028910+00:00"
+}

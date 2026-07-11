@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-017",
+  "title": "Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07957",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:44:18.701724+00:00",
+  "collected_at": "2026-07-11T09:44:18.701724+00:00",
+  "summary": "该论文研究了帧率对基于序列的自闭症相关自我刺激手部特征分类的影响，通过实验评估不同帧率下分类模型的性能差异。核心价值在于为自闭症行为分析中的视频数据采集和处理提供优化建议，提升分类准确性和效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:45:30.028936+00:00"
+}

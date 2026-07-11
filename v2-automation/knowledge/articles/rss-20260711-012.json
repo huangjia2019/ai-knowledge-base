@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260711-012",
+  "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:44:18.701701+00:00",
+  "collected_at": "2026-07-11T09:44:18.701701+00:00",
+  "summary": "该论文提出了一种基于图神经网络（GNN）的模型，用于实时手势识别，输入为表面肌电信号（sEMG）。核心价值在于利用图结构捕捉多通道sEMG信号之间的空间关系，从而提升识别准确率和实时性。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:45:30.028922+00:00"
+}
