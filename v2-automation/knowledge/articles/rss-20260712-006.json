@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260712-006",
+  "title": "Data for Agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-12T09:58:32.994164+00:00",
+  "collected_at": "2026-07-12T09:58:32.994164+00:00",
+  "summary": "本文探讨了如何为AI代理（Agent）构建高质量的数据集，强调了数据在代理训练和评估中的核心作用。文章提供了数据收集、标注和增强的实用方法，旨在提升代理在复杂任务中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:59:43.914314+00:00"
+}

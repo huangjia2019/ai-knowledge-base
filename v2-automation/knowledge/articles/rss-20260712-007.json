@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-007",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-12T09:58:32.994172+00:00",
+  "collected_at": "2026-07-12T09:58:32.994172+00:00",
+  "summary": "vLLM 推出原生速度的 transformers 建模后端，显著提升推理性能。该后端优化了模型加载和计算效率，适用于大规模部署场景。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:59:43.914317+00:00"
+}
