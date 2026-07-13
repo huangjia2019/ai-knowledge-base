@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-020",
+  "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09330",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:21:54.130665+00:00",
+  "collected_at": "2026-07-13T11:21:54.130665+00:00",
+  "summary": "该论文提出了一种面向异构大语言模型具身智能体的数字孪生协调框架，通过计算网络实现高效通信。核心价值在于解决了多智能体系统中不同LLM模型间的协作与资源优化问题，提升了系统可扩展性和实时性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:23:00.394136+00:00"
+}

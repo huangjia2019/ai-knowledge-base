@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-017",
+  "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09195",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:21:54.130651+00:00",
+  "collected_at": "2026-07-13T11:21:54.130651+00:00",
+  "summary": "该论文提出了一种用于LLM智能体的假设演化协议，旨在实现可审计的AI科学家。通过结构化假设生成、验证和更新流程，增强AI研究过程的透明度和可追溯性。核心价值在于提升AI自主科研的可靠性和可信度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:23:00.394128+00:00"
+}
