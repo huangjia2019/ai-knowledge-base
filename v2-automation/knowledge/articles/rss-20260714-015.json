@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-015",
+  "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09739",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404847+00:00",
+  "collected_at": "2026-07-14T10:05:33.404847+00:00",
+  "summary": "该论文提出了一种无需监督的提示子集选择方法，用于高效评估大型语言模型（LLM）基准测试。通过引入核心集（coresets）概念，在评估前自动筛选出最具代表性的提示子集，显著降低评估成本同时保持准确性。该方法为LLM基准测试的实用化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.047000+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-020",
+  "title": "Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09748",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404870+00:00",
+  "collected_at": "2026-07-14T10:05:33.404870+00:00",
+  "summary": "该论文提出了一种名为“认知状态复制”的新方法，用于在智能体系统中复制智能体的信念状态而非具体数据，从而提升系统的鲁棒性和适应性。其核心价值在于为构建更灵活、可迁移的智能体系统提供了理论框架和实现路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.047014+00:00"
+}

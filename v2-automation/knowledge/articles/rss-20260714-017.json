@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-017",
+  "title": "Scaffolding the Strategist: Architecture-Dependent Reasoning Interventions in Hotelling Spatial Markets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09743",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404856+00:00",
+  "collected_at": "2026-07-14T10:05:33.404856+00:00",
+  "summary": "该研究探讨了在Hotelling空间市场模型中，如何通过架构依赖的推理干预来优化策略制定。核心价值在于提出了一种结合空间经济学与AI推理的方法，以提升决策质量。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.047006+00:00"
+}

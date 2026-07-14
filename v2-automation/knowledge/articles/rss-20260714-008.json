@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-008",
+  "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09698",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404815+00:00",
+  "collected_at": "2026-07-14T10:05:33.404815+00:00",
+  "summary": "该论文将潜在链式推理（Latent CoT）解释为动力系统，通过动态系统理论分析其内部状态演化，揭示了推理过程的稳定性和收敛性。这项工作为理解大语言模型的内部推理机制提供了新的理论视角，有助于改进模型的可解释性和推理效率。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.046973+00:00"
+}

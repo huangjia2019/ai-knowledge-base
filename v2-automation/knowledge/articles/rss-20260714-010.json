@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260714-010",
+  "title": "GES-TSP: Graph Edge Sparsification for TSP",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09708",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404825+00:00",
+  "collected_at": "2026-07-14T10:05:33.404825+00:00",
+  "summary": "该论文提出了一种针对旅行商问题（TSP）的图边稀疏化方法（GES-TSP），通过减少图中的边数量来降低计算复杂度，同时保持解的质量。该方法在多个TSP基准数据集上验证了有效性，为组合优化问题提供了高效的预处理技术。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.046979+00:00"
+}

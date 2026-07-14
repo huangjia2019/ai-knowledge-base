@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-005",
+  "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09665",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404795+00:00",
+  "collected_at": "2026-07-14T10:05:33.404795+00:00",
+  "summary": "该论文提出了一种名为格式敏感性指数（Format Sensitivity Index）的指标，用于评估大型语言模型（LLM）在基准测试中对提示包装器（prompt wrapper）的鲁棒性以及模式合规性。通过控制token级别的提示变化，该指标能够量化模型输出格式的稳定性，为LLM的标准化评估提供了新工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.046963+00:00"
+}

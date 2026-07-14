@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-009",
+  "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09706",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T10:05:33.404820+00:00",
+  "collected_at": "2026-07-14T10:05:33.404820+00:00",
+  "summary": "该论文提出YUKTI框架，通过不确定性类型化的命题信息检索、假设鲁棒帕累托前沿和遗憾证书，实现从自然语言情境到鲁棒、可验证决策的转换。其核心价值在于为AI决策提供形式化的不确定性处理与验证机制，提升决策的可靠性与透明度。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-14T10:06:38.046976+00:00"
+}
