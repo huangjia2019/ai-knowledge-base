@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-019",
+  "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13558",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597482+00:00",
+  "collected_at": "2026-07-16T10:18:39.597482+00:00",
+  "summary": "该论文提出了一种多智能体协同推理框架，结合工具增强的证据收集，用于城市区域画像。核心价值在于通过多智能体分工协作和外部工具调用，提升区域特征分析的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843381+00:00"
+}

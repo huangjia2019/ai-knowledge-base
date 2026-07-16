@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-020",
+  "title": "AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13562",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597486+00:00",
+  "collected_at": "2026-07-16T10:18:39.597486+00:00",
+  "summary": "该研究探讨了AI建议对人们表达不确定性的影响，发现即使AI建议错误且准确性受到激励，人们仍倾向于抑制说“我不知道”的意愿。这揭示了AI辅助决策中的人类行为偏差，对设计更有效的AI交互系统具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843383+00:00"
+}

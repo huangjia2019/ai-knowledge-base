@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-004",
+  "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13073",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597405+00:00",
+  "collected_at": "2026-07-16T10:18:39.597405+00:00",
+  "summary": "该论文提出了一种基于Belnap类型内涵一阶逻辑的概率扩展神经符号AGI机器人框架，通过结合概率推理与符号逻辑，增强了机器人在不确定性环境下的决策能力。其核心价值在于为神经符号系统提供了更严谨的数学基础，有望提升AGI的鲁棒性和可解释性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843324+00:00"
+}

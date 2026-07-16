@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-002",
+  "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13049",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597392+00:00",
+  "collected_at": "2026-07-16T10:18:39.597392+00:00",
+  "summary": "SPINE提出了一种基于代理型AI的框架，旨在弥合信息物理系统（CPS）中的数字与物理世界差距。其核心价值在于通过智能代理实现更高效的物理系统控制与交互，提升自动化与决策能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843317+00:00"
+}

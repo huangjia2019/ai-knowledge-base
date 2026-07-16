@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-008",
+  "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13172",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597434+00:00",
+  "collected_at": "2026-07-16T10:18:39.597434+00:00",
+  "summary": "该论文提出了一种通过人类偏好和理由来学习安全智能体行为的方法，并利用世界模型进行训练。其核心价值在于结合人类反馈与模型预测，提升智能体在复杂环境中的安全性和可解释性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843338+00:00"
+}

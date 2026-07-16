@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-011",
+  "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13230",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597448+00:00",
+  "collected_at": "2026-07-16T10:18:39.597448+00:00",
+  "summary": "该论文提出了针对自主AI代理的保险框架，涵盖定价、承保和端到端自动化流程。核心价值在于为代理型AI系统提供风险管理解决方案，确保其可靠性和商业可行性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843356+00:00"
+}

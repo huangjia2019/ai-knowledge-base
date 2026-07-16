@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260716-018",
+  "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13548",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:18:39.597477+00:00",
+  "collected_at": "2026-07-16T10:18:39.597477+00:00",
+  "summary": "该论文探讨了在真实世界遥测数据上进行根因分析的可行性和局限性，提出了一种基于因果推断的方法来识别系统故障的根本原因。研究通过实验验证了该方法在复杂分布式系统中的有效性，为运维自动化提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:19:48.843378+00:00"
+}
