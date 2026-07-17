@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-003",
+  "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-17T10:06:24.035624+00:00",
+  "collected_at": "2026-07-17T10:06:24.035624+00:00",
+  "summary": "本文讨论了尽管LLM批评者指出了其局限性，但作者仍然坚持使用LLM的实际应用价值。文章强调了在理解模型局限性的前提下，LLM在提高生产力和解决实际问题中的有效性。核心价值在于平衡批评与实用主义，为AI从业者提供了务实的使用视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-17T10:07:30.200318+00:00"
+}
