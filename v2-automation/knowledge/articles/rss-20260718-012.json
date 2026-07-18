@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260718-012",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:41:20.837340+00:00",
+  "collected_at": "2026-07-18T09:41:20.837340+00:00",
+  "summary": "该内容介绍了Thinking Machines团队推出的Inkling项目，旨在为AI开发者提供更高效的工具或框架。其核心价值在于简化复杂AI系统的构建流程，提升开发效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:42:40.754375+00:00"
+}

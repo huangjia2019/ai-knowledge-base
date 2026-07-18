@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260718-010",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:41:20.837332+00:00",
+  "collected_at": "2026-07-18T09:41:20.837332+00:00",
+  "summary": "本文分享了构建Shippy代理过程中的经验教训，强调了代理系统设计中的关键挑战与解决方案，为开发者提供了实用的技术洞察。内容聚焦于代理架构的实践优化，具有较高的技术参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:42:40.754369+00:00"
+}

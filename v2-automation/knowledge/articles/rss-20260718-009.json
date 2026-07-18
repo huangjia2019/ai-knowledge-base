@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260718-009",
+  "title": "Security incident disclosure — July 2026",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-18T09:41:20.837328+00:00",
+  "collected_at": "2026-07-18T09:41:20.837328+00:00",
+  "summary": "该内容为 Hugging Face 在 2026 年 7 月发布的安全事件披露公告，详细说明了平台遭遇的安全漏洞或攻击事件及其影响。对于 AI 社区而言，这强调了模型托管和 API 服务中的安全风险，提醒开发者关注供应链安全与数据保护。",
+  "score": 7,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:42:40.754363+00:00"
+}
