@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-007",
+  "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15280",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T11:08:48.199613+00:00",
+  "collected_at": "2026-07-20T11:08:48.199613+00:00",
+  "summary": "GraphDx 提出了一种成本感知的知识增强多智能体框架，用于顺序诊断任务。该框架通过图结构整合领域知识，并优化多智能体协作中的成本与效率，在诊断准确性和资源消耗之间取得平衡。其核心价值在于为复杂诊断问题提供可扩展且经济高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T11:09:53.855498+00:00"
+}

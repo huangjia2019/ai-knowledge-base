@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260720-016",
+  "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15480",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T11:08:48.199700+00:00",
+  "collected_at": "2026-07-20T11:08:48.199700+00:00",
+  "summary": "该论文对可信AI工具和Mark框架进行了批判性分析，揭示了从理论框架到实际实施之间的鸿沟。核心价值在于指出了当前可信AI实践中的关键挑战，为研究人员和从业者提供了改进方向。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T11:09:53.855531+00:00"
+}
