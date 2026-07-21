@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-017",
+  "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16207",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:31:16.685204+00:00",
+  "collected_at": "2026-07-21T10:31:16.685204+00:00",
+  "summary": "该论文提出了一种名为JUMP的单次成员推理攻击方法，专门针对微调后的扩散语言模型。核心价值在于揭示了微调过程可能带来的隐私泄露风险，为模型安全性评估提供了新的工具。",
+  "score": 7,
+  "tags": [
+    "security",
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380637+00:00"
+}

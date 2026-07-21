@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-018",
+  "title": "ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16208",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:31:16.685211+00:00",
+  "collected_at": "2026-07-21T10:31:16.685211+00:00",
+  "summary": "ColGraphRAG 提出了一种基于晚期交互的多模态图检索增强生成方法，通过图结构实现多模态证据的联合检索与排序。该方法在保留模态间交互信息的同时提升了检索效率，为复杂多模态问答任务提供了新思路。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380640+00:00"
+}

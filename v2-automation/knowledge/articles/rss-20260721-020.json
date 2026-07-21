@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-020",
+  "title": "A Survey on the Verification of Reinforcement Learning Policies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16210",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:31:16.685220+00:00",
+  "collected_at": "2026-07-21T10:31:16.685220+00:00",
+  "summary": "本文综述了强化学习策略验证的方法，涵盖形式化验证、测试和运行时监控等技术，旨在确保RL策略在安全关键应用中的可靠性和鲁棒性。该研究为RL系统的可信部署提供了系统性的技术分类和未来方向。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380646+00:00"
+}

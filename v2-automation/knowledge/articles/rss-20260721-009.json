@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260721-009",
+  "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16198",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:31:16.685169+00:00",
+  "collected_at": "2026-07-21T10:31:16.685169+00:00",
+  "summary": "该论文综述了基于图神经网络（GNN）的链路预测技术，涵盖了核心方法、应用场景及当前面临的挑战。它为研究人员提供了该领域的系统化梳理，有助于理解GNN在链路预测中的最新进展和未来方向。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380604+00:00"
+}

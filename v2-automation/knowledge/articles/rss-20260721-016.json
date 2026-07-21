@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-016",
+  "title": "PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16206",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:31:16.685200+00:00",
+  "collected_at": "2026-07-21T10:31:16.685200+00:00",
+  "summary": "该论文提出了一种名为PPO-HSC的探索性强化学习框架，通过广域策略覆盖优化来提升智能体的探索效率。核心价值在于解决了传统强化学习在复杂环境中探索不足的问题，为策略优化提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380634+00:00"
+}

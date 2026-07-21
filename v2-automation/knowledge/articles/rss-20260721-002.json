@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-002",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-21T10:31:15.930680+00:00",
+  "collected_at": "2026-07-21T10:31:15.930680+00:00",
+  "summary": "该文章探讨了如何测量arXiv论文中AI写作的占比，并分析了测量方法的局限性。核心价值在于揭示了AI在学术写作中的渗透程度以及当前检测技术的边界。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:32:20.380586+00:00"
+}
