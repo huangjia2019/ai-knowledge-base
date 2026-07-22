@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-020",
+  "title": "iOfficeAI/AionUi",
+  "source": "github",
+  "source_url": "https://github.com/iOfficeAI/AionUi",
+  "author": "iOfficeAI",
+  "published_at": "2026-07-22T10:29:36Z",
+  "collected_at": "2026-07-22T10:31:47.954386+00:00",
+  "summary": "iOfficeAI/AionUi 是一个免费、本地化、开源的 24/7 协同工作应用，支持 OpenClaw、Hermes Agent、Claude Code 等 20 多种 CLI 工具，允许用户自定义助手。该项目旨在提供一个集成多种 AI 命令行工具的协作平台，适合开发者和团队使用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:32:59.811004+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-016",
+  "title": "PEARL: Solver-in-the-Loop Interactive Optimization Modeling from Natural Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18256",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:31:49.356283+00:00",
+  "collected_at": "2026-07-22T10:31:49.356283+00:00",
+  "summary": "PEARL 提出了一种将求解器集成到优化建模循环中的方法，通过自然语言交互实现优化问题的自动建模与求解。该技术利用大语言模型理解用户描述，并调用求解器进行迭代优化，提升了建模效率和准确性。其核心价值在于降低了优化建模的门槛，使非专家用户也能通过自然语言描述复杂优化问题。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:32:59.811058+00:00"
+}
