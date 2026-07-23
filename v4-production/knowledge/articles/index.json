@@ -5338,5 +5338,65 @@
     "title": "hiyouga/LlamaFactory",
     "category": "framework",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-23-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-23-001",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-23-002",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-07-23-003",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-23-004",
+    "title": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-23-005",
+    "title": "infiniflow/ragflow",
+    "category": "rag",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-07-23-006",
+    "title": "OpenHands/OpenHands",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-23-007",
+    "title": "bytedance/deer-flow",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-23-008",
+    "title": "earendil-works/pi",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-07-23-009",
+    "title": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.9
   }
 ]
